@@ -1,0 +1,3269 @@
+appcertdlls v.20200427
+ControlSet001\Control\Session Manager\AppCertDlls not found.
+----------------------------------------
+appcompatcache v.20220921
+(System) Parse files from System hive AppCompatCache
+
+ControlSet001\Control\Session Manager\AppCompatibility
+LastWrite Time: 2010-10-13 16:19:24Z
+Signature: 0xdeadbeef
+WinXP, 32-bit
+C:\WINDOWS\system32\shimgvw.dll  2006-02-28 11:59:59  2010-10-13 16:10:16  438272 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\Firefox%20Setup%203.6.16[1].exe  2009-03-03 15:54:13  2009-03-03 15:54:13  8579448 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Ask.com\TaskScheduler.exe  2010-09-28 12:44:28  2010-10-13 16:10:02  109448 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\npp.5.9.Installer.exe  2010-05-04 13:25:44  2010-05-04 13:29:35  5576634 bytes
+C:\Program Files\Mozilla Firefox\firefox.exe  2011-03-19 23:27:07  2010-10-13 15:57:38  912344 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\mscoree.dll    2010-10-13 16:09:48  0 bytes
+C:\Program Files\FileZilla FTP Client\filezilla.exe  2011-03-27 20:11:04  2010-05-04 13:38:57  7642112 bytes
+C:\WINDOWS\system32\shdocvw.dll  2006-02-28 11:59:59  2010-07-29 14:04:05  1492480 bytes
+C:\Program Files\Notepad++\updater\GUP.exe  2011-02-09 00:56:34  2010-10-13 16:10:41  135168 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\dotnetfx.exe  2009-03-03 15:07:22  2009-03-03 15:07:22  23510720 bytes
+C:\Program Files\Nmap\vcredist2008_x86.exe  2011-02-11 21:23:38  2009-06-12 14:16:43  4485976 bytes
+c:\0f8ba26f554b351c66046712d8b92ca8\UPDATE\update.exe  2007-11-29 17:18:52  2009-03-03 15:02:26  755576 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Wireshark\wireshark.exe  2011-04-18 19:03:11  2010-10-13 16:09:55  2301440 bytes
+C:\WINDOWS\inf\unregmp2.exe  2006-02-28 11:59:59  2009-02-15 17:02:27  208896 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\ca_setup.exe  2010-05-04 13:17:51  2010-05-04 13:21:44  7967675 bytes
+C:\Program Files\7-Zip\7zFM.exe  2010-11-18 16:09:00  2010-10-13 16:10:50  421888 bytes
+C:\Program Files\Notepad++\NppShell_04.dll  2011-02-09 00:56:38  2010-10-13 16:10:39  296448 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\burpsuite_v1.3.03\suite.bat  2010-05-02 22:07:00  2009-03-03 15:58:44  40 bytes
+C:\Program Files\Foxit Software\Foxit Reader\Foxit Reader.exe  2010-10-13 16:09:31  2010-10-13 16:10:34  11658744 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\Matrix_ks[1].exe  2009-03-03 14:21:25  2009-03-03 14:21:25  1703157 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\oobe\msoobe.exe  2006-02-28 11:59:59  2009-02-15 17:00:31  28160 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe  2005-09-22 20:28:56  2009-03-03 15:20:16  66240 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\FoxitReader431_enu_Setup.exe  2010-10-13 16:09:14  2010-10-13 16:09:26  7935480 bytes
+C:\WINDOWS\msagent\agentsvr.exe  2006-02-28 11:59:59  2009-02-15 17:00:47  256512 bytes
+C:\Program Files\Notepad++\notepad++.exe  2011-03-30 22:25:04  2010-10-13 16:10:40  1523712 bytes
+C:\WINDOWS\system32\wscntfy.exe  2006-02-28 11:59:59  2010-05-04 13:26:20  13824 bytes
+C:\WINDOWS\system32\mydocs.dll  2006-02-28 11:59:59  2010-08-05 14:57:26  90624 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Wireshark\WinPcap_4_1_2.exe  2011-04-18 18:48:03  2009-06-12 14:07:26  915920 bytes
+C:\WINDOWS\system32\zipfldr.dll  2006-02-28 11:59:59  2010-05-04 13:19:47  337920 bytes
+C:\Program Files\7-Zip\7-zip.dll  2010-11-18 16:08:12  2010-10-13 16:10:39  55808 bytes
+    1970-01-01 00:00:00  0 bytes
+c:\b3cfe1678135eed0fd536d53\install.exe  2009-07-11 17:55:40  2009-06-12 14:16:44  560464 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\Matrix_ks.SCR  2009-02-09 13:46:33  2010-08-05 14:34:30  3013120 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\UDM5CTEP\WindowsXP-KB942288-v3-x86[1].exe  2009-03-03 15:02:25  2009-03-03 15:02:25  3327000 bytes
+C:\WINDOWS\system32\logon.scr  2006-02-28 11:59:59  2009-03-03 14:21:57  220672 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\CJIP4PUH\NetFx20SP2_x86[1].exe  2009-03-03 14:59:37  2009-03-03 14:59:37  25001480 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Mozilla Firefox\uninstall\helper.exe  2011-03-19 23:27:03  2009-06-12 14:35:30  552376 bytes
+C:\WINDOWS\system32\NETSHELL.dll  2006-02-28 11:59:59  2010-10-13 15:44:12  1708032 bytes
+C:\WINDOWS\System32\cscui.dll  2006-02-28 11:59:59  2010-10-13 16:18:21  326656 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\wireshark-win32-1.4.6[1].exe  2009-06-12 14:07:02  2009-06-12 14:07:02  19482969 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\7z920.exe  2010-05-04 13:18:02  2010-05-04 13:19:05  1110476 bytes
+C:\WINDOWS\system32\tourstart.exe  2006-02-28 11:59:59  2009-02-15 17:03:16  347136 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\FileZilla_3.4.0_win32-setup.exe  2010-05-04 13:38:34  2010-05-04 13:38:41  4256366 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll    2009-03-03 15:59:02  0 bytes
+C:\WINDOWS\Installer\MSI29.tmp  2010-10-13 16:09:52  2010-10-13 16:09:52  47104 bytes
+C:\WINDOWS\system32\mstask.dll  2006-02-28 11:59:59  2010-05-04 13:42:18  274944 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\regtlibv12.exe  2005-09-22 20:29:02  2009-03-03 15:07:51  59072 bytes
+C:\Program Files\Fiddler2\Fiddler.exe  2011-04-25 02:02:04  2009-03-03 15:59:02  709544 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\msieftp.dll  2006-02-28 11:59:59  2009-06-12 14:01:45  248832 bytes
+C:\WINDOWS\system32\urlmon.dll  2006-02-28 11:59:59  2009-03-03 14:57:57  612352 bytes
+C:\Program Files\Mozilla Firefox\plugin-container.exe  2011-03-19 23:27:26  2010-08-05 15:06:48  16856 bytes
+C:\Program Files\FileZilla FTP Client\fzshellext.dll  2011-03-27 20:11:04  2010-08-05 14:57:26  94208 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe  2005-09-22 20:28:56  2009-03-03 15:08:13  32768 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Toolz\ipcscan\IpcScan-gui.exe  2002-10-12 03:14:31  2010-05-04 13:24:17  143360 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Outlook Express\setup50.exe  2006-02-28 11:59:59  2009-02-15 17:02:28  73216 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ngen.exe  2005-09-22 20:28:56  2009-03-03 15:09:18  96440 bytes
+C:\Documents and Settings\Ima Hacker\Application Data\Mozilla\Firefox\Profiles\65qsm3on.default\extensions\firesheep@codebutler.com\platform\WINNT_x86-msvc\firesheep-backend.exe  2010-10-21 10:12:40  2010-08-05 15:07:24  3920702 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\nmap-5.51-setup.exe  2009-06-12 14:15:46  2009-06-12 14:15:46  19910546 bytes
+C:\Program Files\Nmap\zenmap.exe  2011-02-11 22:35:44  2010-05-04 12:40:48  46592 bytes
+C:\Program Files\Nmap\winpcap-nmap-4.12.exe  2011-02-11 22:35:28  2009-06-12 14:16:06  428664 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\Fiddler2Setup.exe  2009-03-03 14:56:59  2009-03-03 15:01:39  639824 bytes
+C:\Program Files\Messenger\msmsgs.exe  2004-08-03 14:06:34  2010-10-13 15:44:12  1667584 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Outlook Express\msimn.exe  2006-02-28 11:59:59  2010-10-13 16:18:30  60416 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Nmap\nmap.exe  2011-02-11 22:35:26  2010-05-04 12:40:56  748032 bytes
+C:\WINDOWS\system32\webcheck.dll  2006-02-28 11:59:59  2009-03-03 14:59:15  276480 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Nmap\vcredist_x86.exe  2011-02-11 21:23:38  2009-06-12 14:15:57  5073240 bytes
+C:\WINDOWS\system32\shgina.dll  2006-02-28 11:59:59  2010-08-05 15:40:00  68096 bytes
+C:\Program Files\Cain\Cain.exe  2011-04-07 11:21:47  2010-05-04 13:26:07  1273344 bytes
+C:\WINDOWS\system32\twext.dll  2006-02-28 11:59:59  2010-05-04 13:28:40  44032 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_regiis.exe  2005-09-22 20:28:32  2009-03-03 15:08:08  26824 bytes
+C:\Program Files\Wireshark\dumpcap.exe  2011-04-18 19:03:47  2010-10-13 16:09:57  83456 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Movie Maker\moviemk.exe  2006-02-28 11:59:59  2010-07-29 14:03:58  3555328 bytes
+    1970-01-01 00:00:00  0 bytes
+----------------------------------------
+backuprestore v.20200517
+(System) Gets the contents of the FilesNotToSnapshot, KeysNotToRestore, and FilesNotToBackup keys
+
+ControlSet001\Control\BackupRestore\FilesNotToSnapshot not found.
+
+FilesNotToBackup key
+ControlSet001\Control\BackupRestore\FilesNotToBackup
+LastWrite Time 2009-02-15 17:00:50Z
+Specifies the directories and files that backup applications should not backup or restore
+
+  Temporary Files : %TEMP%\* /s
+  Memory Page File : \Pagefile.sys
+  Power Management : \hiberfil.sys
+  Winlogon debug : %WINDIR%\debug\*
+  Client Side Cache : %SystemRoot%\csc\* /s
+  Netlogon : %SystemRoot%\netlogon.chg
+  Task Scheduler : %SYSTEMROOT%\schedlgu.txt
+  Internet Explorer : %UserProfile%\index.dat /s
+  ASR Log File : %SystemRoot%\repair\asr.log
+  ASR Error File : %SystemRoot%\repair\asr.err
+  Microsoft Writer (Service State) : %SystemRoot%\system32\NtmsData\*
+  Catalog Database : %SystemRoot%\System32\CatRoot2\* /s
+  SUS Client : %SystemRoot%\SoftwareDistribution\* /s
+  WMI Writer : %SystemRoot%\system32\wbem\Repository\* /s
+  Microsoft Writer (Bootable State) : %SystemRoot%\Registration\*.clb \*.crmlog /s
+  DRM : C:\Documents and Settings\All Users\DRM\* /s
+  VSS Default Provider : \System Volume Information\*{3808876B-C176-4e48-B7AE-04046E6CC752} /s
+  System Restore : \System Volume Information\_restore{B6B28996-CAB8-4AFC-A54A-607873F6C717}\* /s
+  MS Distributed Transaction Coordinator : C:\WINDOWS\system32\MSDtc\MSDTC.LOG C:\WINDOWS\system32\MSDtc\trace\dtctrace.log
+
+KeysNotToRestore key
+ControlSet001\Control\BackupRestore\KeysNotToRestore
+LastWrite Time 2009-02-16 03:50:08Z
+
+Specifies the names of the registry subkeys and values that backup applications should not restore
+
+  Fault Tolerance : Disk\
+  Mount Manager : MountedDevices\
+  Windows Setup : Setup\SystemPartition
+  Installed Services : CurrentControlSet\Services\*
+  ASR Information : CurrentControlSet\Control\ASR\
+  LDM Boot Information (dmboot) : CurrentControlSet\Services\dmboot\
+  LDM Boot Information : CurrentControlSet\Services\dmio\boot info\
+  Removable Storage Manager : CurrentControlSet\Control\NTMS\ImportDatabase
+  Plug & Play : CurrentControlSet\Control\CriticalDeviceDatabase\
+  Session Manager : CurrentControlSet\Control\Session Manager\AllowProtectedRenames
+  Pending Rename Operations : CurrentControlSet\Control\Session Manager\PendingFileRenameOperations
+  Active Directory Restore : CurrentControlSet\Services\NTDS\Restore In Progress\ CurrentControlSet\Services\NTDS\Parameters\New Database GUID
+----------------------------------------
+bam v.20200427
+(System) Parse files from System hive BAM Services
+
+ControlSet001\Services\bam\State\UserSettings not found.
+----------------------------------------
+bthenum v.20200515
+(System) Get BTHENUM subkey info
+
+ControlSet001\Enum\BTHENUM not found.
+----------------------------------------
+bthport v.20200517
+(System) Gets Bluetooth-connected devices from System hive
+
+ControlSet001\services\BTHPORT\Parameters\Devices not found.
+
+ControlSet001\services\BTHPORT\Parameters\Radio Support not found.
+----------------------------------------
+codepage v.20200519
+(system) Checks codepage value
+
+CodePage key LastWrite time: 2009-02-16 03:50:09Z
+  Code page value = 1252
+
+Code page description: https://en.wikipedia.org/wiki/Code_page
+----------------------------------------
+compname v.20090727
+(System) Gets ComputerName and Hostname values from System hive
+
+ComputerName    = L33TPC
+TCP/IP Hostname = l33tpc
+----------------------------------------
+----------------------------------------
+cred v.20200427
+(system) Checks for UseLogonCredential value
+
+UseLogonCredential value not found.
+----------------------------------------
+dafupnp v.20200525
+(System) Parses data from networked media streaming devices
+
+ControlSet001\Enum\SWD\DAFUPnPProvider not found.
+----------------------------------------
+devclass v.20200525
+(System) Get USB device info from the DeviceClasses keys in the System hive
+
+DevClasses - Disks
+ControlSet001\Control\DeviceClasses\{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+
+
+DevClasses - Volumes
+ControlSet001\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+
+ControlSet001\Control\DeviceClasses\{10497b1b-ba51-44e5-8318-a65c837b6661} not found.
+----------------------------------------
+disablelastaccess v.20200517
+(System) Get NTFSDisableLastAccessUpdate value
+
+NtfsDisableLastAccessUpdate
+ControlSet001\Control\FileSystem
+Key LastWrite time: 2009-02-16 03:50:08Z
+NtfsDisableLastAccessUpdate value not found.
+----------------------------------------
+disableremotescm v.20200513
+(System) Gets DisableRemoteScmEndpoints value from System hive
+
+DisableRemoteScmEndpoints value not found.
+----------------------------------------
+environment v.20200512
+(System, NTUSER.DAT) Get environment vars from NTUSER.DAT & System hives
+
+ControlSet001\Control\Session Manager\Environment
+LastWrite Time: 2009-02-15 16:57:05Z
+
+ComSpec                   %SystemRoot%\system32\cmd.exe                     
+Path                      %SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem
+windir                    %SystemRoot%                                      
+FP_NO_HOST_CHECK          NO                                                
+OS                        Windows_NT                                        
+PROCESSOR_ARCHITECTURE    x86                                               
+PROCESSOR_LEVEL           6                                                 
+PROCESSOR_IDENTIFIER      x86 Family 6 Model 15 Stepping 6, GenuineIntel    
+PROCESSOR_REVISION        0f06                                              
+NUMBER_OF_PROCESSORS      1                                                 
+PATHEXT                   .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH  
+TEMP                      %SystemRoot%\TEMP                                 
+TMP                       %SystemRoot%\TEMP                                 
+----------------------------------------
+imagedev v.20140104
+(System)  -- 
+
+imagedev
+ControlSet001\Control\Class\{6BDD1FC6-810F-11D0-BEC7-08002BE2092F}
+
+ControlSet001\Control\Class\{6BDD1FC6-810F-11D0-BEC7-08002BE2092F} has no subkeys.
+----------------------------------------
+ips v.20200518
+(System) Get IP Addresses and domains (DHCP,static)
+
+IPAddress            Domain                        
+192.168.75.128       localdomain                    Hint:                         
+0.0.0.0                                            
+0.0.0.0                                            
+0.0.0.0                                            
+----------------------------------------
+lsa v.20200517
+(System) Lists specific contents of LSA key
+
+ControlSet001\Control\LSA
+LastWrite: 2009-06-12 14:00:51Z
+
+Authentication Packages  : msv1_0
+Notification Packages    : scecli
+Security Packages        : kerberos msv1_0 schannel wdigest
+EveryoneIncludesAnonymous: 0
+
+Analysis Tips:
+- Check Notification Packages value for unusual entries.
+- EveryoneIncludesAnonymous = 0 means that Anonymous users do not have the same
+  privileges as the Everyone Group.
+----------------------------------------
+macaddr v.20200515
+(System,Software)  -- 
+
+ControlSet001\Control\Class\{4D36E972-E325-11CE-BFC1-08002bE10318}
+No NetworkAddress value found.
+----------------------------------------
+mountdev v.20200517
+(System) Return contents of System hive MountedDevices key
+
+
+MountedDevices
+LastWrite time = 2009-03-03 14:17:50Z
+
+\??\Volume{1a0c529b-fbdc-11dd-ad70-806d6172696f}
+  Drive Signature =  34 7f 34 7f
+\DosDevices\C:
+  Drive Signature =  34 7f 34 7f
+
+Device: \??\IDE#CdRomNECVMWar_VMware_IDE_CDR10_______________1.00____#3031303030303030303030303030303030303130#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+  \??\Volume{1a0c5299-fbdc-11dd-ad70-806d6172696f}
+
+Device: \??\IDE#CdRomOTOLODG_2NOHYZGLYJ______________________1.03____#3031303030303030303030303030303030303130#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+  \DosDevices\D:
+  \??\Volume{128faeec-07fe-11de-8714-806d6172696f}
+
+Device: \??\FDC#GENERIC_FLOPPY_DRIVE#6&1435b2e2&0&0#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+  \??\Volume{1a0c5298-fbdc-11dd-ad70-806d6172696f}
+  \DosDevices\A:
+
+----------------------------------------
+
+mountdev2 v.20200517
+(System) Return contents of System hive MountedDevices key
+
+MountedDevices
+LastWrite time = 2009-03-03 14:17:50Z
+
+Volume                                              Disk Sig                            Offset
+-------                                             --------                          --------
+\??\Volume{1a0c529b-fbdc-11dd-ad70-806d6172696f}     34 7f 34 7f                         32256
+\DosDevices\C:                                       34 7f 34 7f                         32256
+
+\??\Volume{1a0c529b-fbdc-11dd-ad70-806d6172696f}
+  Mon Feb 16 03:44:23 2009
+
+Device: \??\FDC#GENERIC_FLOPPY_DRIVE#6&1435b2e2&0&0#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+  \??\Volume{1a0c5298-fbdc-11dd-ad70-806d6172696f}
+  \DosDevices\A:
+
+Device: \??\IDE#CdRomNECVMWar_VMware_IDE_CDR10_______________1.00____#3031303030303030303030303030303030303130#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+  \??\Volume{1a0c5299-fbdc-11dd-ad70-806d6172696f}
+
+Device: \??\IDE#CdRomOTOLODG_2NOHYZGLYJ______________________1.03____#3031303030303030303030303030303030303130#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+  \DosDevices\D:
+  \??\Volume{128faeec-07fe-11de-8714-806d6172696f}
+
+
+Unique MAC Addresses:
+80:6D:61:72:69:6F
+----------------------------------------
+netlogon v.20200515
+(System) Parse values for machine account password changes
+
+*** ControlSet001 ***
+DisablePasswordChange                0x0000
+maximumpasswordage                   0x001e
+requiresignorseal                    0x0001
+requirestrongkey                     0x0000
+sealsecurechannel                    0x0001
+signsecurechannel                    0x0001
+Update                               no
+
+*** ControlSet002 ***
+DisablePasswordChange                0x0000
+maximumpasswordage                   0x001e
+requiresignorseal                    0x0001
+requirestrongkey                     0x0000
+sealsecurechannel                    0x0001
+signsecurechannel                    0x0001
+Update                               no
+
+----------------------------------------
+networksetup2 v.20191004
+(System) Get NetworkSetup2 subkey info
+
+ControlSet001\Control\NetworkSetup2\Interfaces not found.
+----------------------------------------
+nic2 v.20200525
+(System) Gets NIC info from System hive
+
+Adapter: {08D29489-BCA9-4BE5-92EA-C5DCAFE9F7F4}
+LastWrite Time: 2010-10-13 16:19:24Z
+  UseZeroBroadcast             0                   
+  EnableDeadGWDetect           1                   
+  EnableDHCP                   1                   
+  IPAddress                    0.0.0.0             
+  SubnetMask                   0.0.0.0             
+  DefaultGateway                                   
+  DefaultGatewayMetric                             
+  NameServer                                       
+  Domain                                           
+  RegistrationEnabled          1                   
+  RegisterAdapterName          0                   
+  TCPAllowedPorts              0                   
+  UDPAllowedPorts              0                   
+  RawIPAllowedProtocols        0                   
+  NTEContextList               0x00000002          
+  DhcpClassIdBin                                   
+  DhcpIPAddress                192.168.75.128      
+  DhcpSubnetMask               255.255.255.0       
+  DhcpServer                   192.168.75.254      
+  Lease                        1800                
+  LeaseObtainedTime            2010-10-13 16:19:22Z
+  T1                           2010-10-13 16:34:22Z
+  T2                           2010-10-13 16:45:37Z
+  LeaseTerminatesTime          2010-10-13 16:49:22Z
+  IPAutoconfigurationAddress   0.0.0.0             
+  IPAutoconfigurationMask      255.255.0.0         
+  IPAutoconfigurationSeed      0                   
+  AddressType                  0                   
+  DhcpNameServer               192.168.75.2        
+  DhcpDefaultGateway           192.168.75.2        
+  DhcpDomain                   localdomain         
+  DhcpSubnetMaskOpt            255.255.255.0       
+
+ControlSet001\Services\Tcpip\Parameters\Interfaces has no subkeys.
+Adapter: {B95A0BC5-D5F9-4A0D-88CC-A766D70DAF7D}
+LastWrite Time: 2009-02-15 16:54:11Z
+  UseZeroBroadcast             0                   
+  EnableDHCP                   0                   
+  IPAddress                    0.0.0.0             
+  SubnetMask                   0.0.0.0             
+  DefaultGateway                                   
+  EnableDeadGWDetect           1                   
+  DontAddDefaultGateway        0                   
+
+ControlSet001\Services\Tcpip\Parameters\Interfaces has no subkeys.
+Adapter: {FF70C771-FF02-424F-A093-9416B00FBC22}
+LastWrite Time: 2009-02-15 16:54:11Z
+  UseZeroBroadcast             0                   
+  EnableDHCP                   0                   
+  IPAddress                    0.0.0.0             
+  SubnetMask                   0.0.0.0             
+  DefaultGateway                                   
+  EnableDeadGWDetect           1                   
+  DontAddDefaultGateway        0                   
+
+ControlSet001\Services\Tcpip\Parameters\Interfaces has no subkeys.
+----------------------------------------
+ntds v.20200427
+(System) Parse Services NTDS key for specific persistence values
+
+ControlSet001\Services\NTDS not found.
+----------------------------------------
+pagefile v.20140505
+(System) Get info on pagefile(s)
+
+PagingFiles = C:\pagefile.sys 768 1536
+ClearPageFileAtShutdown = 0
+PagingFiles = C:\pagefile.sys 768 1536
+----------------------------------------
+pending v.20130711
+(System) Gets contents of PendingFileRenameOperations value
+
+PendingFileRenameOperations value not found.
+----------------------------------------
+PortProxy v.20210622
+(System) Get port proxy configuration from PortProxy key
+
+ControlSet001\Services\PortProxy\v4tov4\tcp not found.
+----------------------------------------
+prefetch v.20200515
+(System) Gets the the Prefetch Parameters
+
+EnablePrefetcher    = 3
+
+0 = Prefetching is disabled
+1 = Application prefetching is enabled
+2 = Boot prefetching is enabled
+3 = Both boot and application prefetching is enabled
+----------------------------------------
+----------------------------------------
+printmon v.20200427
+(System) Lists installed Print Monitors
+
+ControlSet001\Control\Print\Monitors
+Lists installed Print Monitors
+
+BJ Language Monitor  LastWrite: 2009-02-16 03:50:09Z
+  Driver: cnbjmon.dll
+
+Local Port  LastWrite: 2009-02-16 03:50:09Z
+  Driver: localspl.dll
+
+PJL Language Monitor  LastWrite: 2009-02-15 16:54:07Z
+  Driver: pjlmon.dll
+
+Standard TCP/IP Port  LastWrite: 2009-02-15 16:54:07Z
+  Driver: tcpmon.dll
+
+USB Monitor  LastWrite: 2009-02-16 03:50:09Z
+  Driver: usbmon.dll
+
+----------------------------------------
+processor_architecture v.20140505
+(System) Get from the processor architecture from the System's environment key
+
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_IDENTIFIER = x86 Family 6 Model 15 Stepping 6, GenuineIntel
+PROCESSOR_REVISION = 0f06
+----------------------------------------
+profiler v.20200525
+(NTUSER.DAT, System) Environment profiler information
+
+
+ComSpec -> %SystemRoot%\system32\cmd.exe
+Path -> %SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem
+windir -> %SystemRoot%
+FP_NO_HOST_CHECK -> NO
+OS -> Windows_NT
+PROCESSOR_ARCHITECTURE -> x86
+PROCESSOR_LEVEL -> 6
+PROCESSOR_IDENTIFIER -> x86 Family 6 Model 15 Stepping 6, GenuineIntel
+PROCESSOR_REVISION -> 0f06
+NUMBER_OF_PROCESSORS -> 1
+PATHEXT -> .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+TEMP -> %SystemRoot%\TEMP
+TMP -> %SystemRoot%\TEMP
+----------------------------------------
+rdpport v.20200526
+(System) Queries System hive for RDP Port
+
+Remote Desktop Listening Port Number = 3389
+----------------------------------------
+remoteaccess v.20200517
+(System) Get RemoteAccess AccountLockout settings
+
+ControlSet001\services\RemoteAccess\Parameters\AccountLockout not found.
+----------------------------------------
+routes v.20200526
+(System) Get persistent routes from the Registry
+
+ControlSet001\Services\Tcpip\Parameters\PersistentRoutes
+LastWrite: 2009-02-15 16:54:02Z
+
+ControlSet001\Services\Tcpip\Parameters\PersistentRoutes has no values.
+----------------------------------------
+Launching securityproviders v.20200526
+(System) Gets SecurityProvider value from System hive
+
+LastWrite: 2009-03-03 14:26:30Z
+
+SecurityPrividers = msapsspc.dll, schannel.dll, digest.dll, msnsspc.dll
+----------------------------------------
+services v.20191024
+(System) Lists services/drivers in Services key by LastWrite times
+
+ControlSet001\Services
+Lists services/drivers in Services key by LastWrite times
+
+Wed Oct 13 15:44:12 2010 Z
+  Name      = aec
+  Display   = Microsoft Kernel Acoustic Echo Canceller
+  ImagePath = system32\drivers\aec.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = DMusic
+  Display   = Microsoft Kernel DLS Syntheiszer
+  ImagePath = system32\drivers\DMusic.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = drmkaud
+  Display   = Microsoft Kernel DRM Audio Descrambler
+  ImagePath = system32\drivers\drmkaud.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = kmixer
+  Display   = Microsoft Kernel Wave Audio Mixer
+  ImagePath = system32\drivers\kmixer.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = splitter
+  Display   = Microsoft Kernel Audio Splitter
+  ImagePath = system32\drivers\splitter.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = swmidi
+  Display   = Microsoft Kernel GS Wavetable Synthesizer
+  ImagePath = system32\drivers\swmidi.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = sysaudio
+  Display   = Microsoft Kernel System Audio Device
+  ImagePath = system32\drivers\sysaudio.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = wdmaud
+  Display   = Microsoft WINMM WDM Audio Compatibility Driver
+  ImagePath = system32\drivers\wdmaud.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+Wed Oct 13 15:44:03 2010 Z
+  Name      = hidusb
+  Display   = Microsoft HID Class Driver
+  ImagePath = system32\DRIVERS\hidusb.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = extended base
+
+  Name      = mouhid
+  Display   = Mouse HID Driver
+  ImagePath = system32\DRIVERS\mouhid.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Pointer Port
+
+  Name      = usbccgp
+  Display   = Microsoft USB Generic Parent Driver
+  ImagePath = system32\DRIVERS\usbccgp.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Base
+
+Wed Oct 13 15:44:02 2010 Z
+  Name      = Cdaudio
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Filter
+
+  Name      = Imapi
+  Display   = CD-Burning Filter Driver
+  ImagePath = system32\DRIVERS\imapi.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Pnp Filter
+
+  Name      = Parport
+  Display   = Parallel port driver
+  ImagePath = system32\DRIVERS\parport.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Parallel arbitrator
+
+  Name      = Sfloppy
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Primary disk
+
+Wed Oct 13 15:44:01 2010 Z
+  Name      = Flpydisk
+  Display   = Floppy Disk Driver
+  ImagePath = system32\DRIVERS\flpydisk.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Primary disk
+
+  Name      = gameenum
+  Display   = Game Port Enumerator
+  ImagePath = system32\DRIVERS\gameenum.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Extended Base
+
+  Name      = mssmbios
+  Display   = Microsoft System Management BIOS Driver
+  ImagePath = system32\DRIVERS\mssmbios.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = usbhub
+  Display   = Microsoft USB Standard Hub Driver
+  ImagePath = system32\DRIVERS\usbhub.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Base
+
+Wed Oct 13 15:43:57 2010 Z
+  Name      = Cdrom
+  Display   = CD-ROM Driver
+  ImagePath = system32\DRIVERS\cdrom.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = SCSI CDROM Class
+
+  Name      = redbook
+  Display   = Digital CD Audio Playback Filter Driver
+  ImagePath = system32\DRIVERS\redbook.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Pnp Filter
+
+Wed Oct 13 15:43:56 2010 Z
+  Name      = atapi
+  Display   = Standard IDE/ESDI Hard Disk Controller
+  ImagePath = system32\DRIVERS\atapi.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = SCSI miniport
+
+  Name      = Disk
+  Display   = Disk Driver
+  ImagePath = system32\DRIVERS\disk.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = SCSI Class
+
+  Name      = es1371
+  Display   = Creative AudioPCI (ES1371,ES1373) (WDM)
+  ImagePath = system32\drivers\es1371mp.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = Fdc
+  Display   = Floppy Disk Controller Driver
+  ImagePath = system32\DRIVERS\fdc.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = System Bus Extender
+
+  Name      = i8042prt
+  Display   = i8042 Keyboard and PS/2 Mouse Port Driver
+  ImagePath = system32\DRIVERS\i8042prt.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Keyboard Port
+
+  Name      = serenum
+  Display   = Serenum Filter Driver
+  ImagePath = system32\DRIVERS\serenum.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = PNP Filter
+
+  Name      = Serial
+  Display   = Serial port driver
+  ImagePath = system32\DRIVERS\serial.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Extended base
+
+  Name      = usbehci
+  Display   = Microsoft USB 2.0 Enhanced Host Controller Miniport Driver
+  ImagePath = system32\DRIVERS\usbehci.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Base
+
+Wed Oct 13 15:43:55 2010 Z
+  Name      = ACPI
+  Display   = Microsoft ACPI Driver
+  ImagePath = system32\DRIVERS\ACPI.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = Boot Bus Extender
+
+  Name      = agp440
+  Display   = Intel AGP Bus Filter
+  ImagePath = system32\DRIVERS\agp440.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = PnP Filter
+
+  Name      = audstub
+  Display   = Audio Stub Driver
+  ImagePath = system32\DRIVERS\audstub.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = CmBatt
+  Display   = Microsoft AC Adapter Driver
+  ImagePath = system32\DRIVERS\CmBatt.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = dmboot
+  Display   = 
+  ImagePath = System32\drivers\dmboot.sys
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = Filter
+
+  Name      = dmload
+  Display   = 
+  ImagePath = System32\drivers\dmload.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = System Bus Extender
+
+  Name      = dmserver
+  Display   = Logical Disk Manager
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = Dnscache
+  Display   = DNS Client
+  ImagePath = %SystemRoot%\system32\svchost.exe -k NetworkService
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = TDI
+
+  Name      = ERSvc
+  Display   = Error Reporting Service
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = EventSystem
+  Display   = COM+ Event System
+  ImagePath = C:\WINDOWS\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = Network
+
+  Name      = Fastfat
+  Display   = 
+  ImagePath = 
+  Type      = File system driver
+  Start     = Disabled
+  Group     = Boot file system
+
+  Name      = FastUserSwitchingCompatibility
+  Display   = Fast User Switching Compatibility
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = Fips
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = 
+
+  Name      = FltMgr
+  Display   = FltMgr
+  ImagePath = system32\DRIVERS\fltMgr.sys
+  Type      = File system driver
+  Start     = Boot Start
+  Group     = FSFilter Infrastructure
+
+  Name      = Fs_Rec
+  Display   = 
+  ImagePath = 
+  Type      = 0x0
+  Start     = System Start
+  Group     = Boot file system
+
+  Name      = Gpc
+  Display   = Generic Packet Classifier
+  ImagePath = system32\DRIVERS\msgpc.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = PNP_TDI
+
+  Name      = helpsvc
+  Display   = Help and Support
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = HTTP
+  Display   = HTTP
+  ImagePath = System32\Drivers\HTTP.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = IntelIde
+  Display   = 
+  ImagePath = system32\DRIVERS\intelide.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = System Bus Extender
+
+  Name      = intelppm
+  Display   = Intel Processor Driver
+  ImagePath = system32\DRIVERS\intelppm.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Extended Base
+
+  Name      = IpNat
+  Display   = IP Network Address Translator
+  ImagePath = system32\DRIVERS\ipnat.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = IPSec
+  Display   = IPSEC driver
+  ImagePath = system32\DRIVERS\ipsec.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = PNP_TDI
+
+  Name      = isapnp
+  Display   = PnP ISA/EISA Bus Driver
+  ImagePath = system32\DRIVERS\isapnp.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = Boot Bus Extender
+
+  Name      = Kbdclass
+  Display   = Keyboard Class Driver
+  ImagePath = system32\DRIVERS\kbdclass.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Keyboard Class
+
+  Name      = KSecDD
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = Base
+
+  Name      = lanmanserver
+  Display   = Server
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = lanmanworkstation
+  Display   = Workstation
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = NetworkProvider
+
+  Name      = LmHosts
+  Display   = TCP/IP NetBIOS Helper
+  ImagePath = %SystemRoot%\system32\svchost.exe -k LocalService
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = TDI
+
+  Name      = mnmdd
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Video Save
+
+  Name      = Mouclass
+  Display   = Mouse Class Driver
+  ImagePath = system32\DRIVERS\mouclass.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Pointer Class
+
+  Name      = MountMgr
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = System Bus Extender
+
+  Name      = MRxDAV
+  Display   = WebDav Client Redirector
+  ImagePath = system32\DRIVERS\mrxdav.sys
+  Type      = File system driver
+  Start     = Manual
+  Group     = 
+
+  Name      = MRxSmb
+  Display   = MRXSMB
+  ImagePath = system32\DRIVERS\mrxsmb.sys
+  Type      = File system driver
+  Start     = System Start
+  Group     = Network
+
+  Name      = MSDTC
+  Display   = Distributed Transaction Coordinator
+  ImagePath = C:\WINDOWS\system32\msdtc.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = MS Transactions
+
+  Name      = Msfs
+  Display   = 
+  ImagePath = 
+  Type      = File system driver
+  Start     = System Start
+  Group     = File system
+
+  Name      = MSIServer
+  Display   = Windows Installer
+  ImagePath = C:\WINDOWS\system32\msiexec.exe /V
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = Mup
+  Display   = Mup
+  ImagePath = 
+  Type      = File system driver
+  Start     = Boot Start
+  Group     = Network
+
+  Name      = NDIS
+  Display   = NDIS System Driver
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = NDIS Wrapper
+
+  Name      = NdisTapi
+  Display   = Remote Access NDIS TAPI Driver
+  ImagePath = system32\DRIVERS\ndistapi.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = Ndisuio
+  Display   = NDIS Usermode I/O Protocol
+  ImagePath = system32\DRIVERS\ndisuio.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = NDIS
+
+  Name      = NdisWan
+  Display   = Remote Access NDIS WAN Driver
+  ImagePath = system32\DRIVERS\ndiswan.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = NDProxy
+  Display   = NDIS Proxy
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = PNP_TDI
+
+  Name      = NetBIOS
+  Display   = NetBIOS Interface
+  ImagePath = system32\DRIVERS\netbios.sys
+  Type      = File system driver
+  Start     = System Start
+  Group     = NetBIOSGroup
+
+  Name      = NetBT
+  Display   = NetBios over Tcpip
+  ImagePath = system32\DRIVERS\netbt.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = PNP_TDI
+
+  Name      = Netman
+  Display   = Network Connections
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = 0x0
+  Start     = Manual
+  Group     = 
+
+  Name      = Nla
+  Display   = Network Location Awareness (NLA)
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = NPF
+  Display   = NetGroup Packet Filter Driver
+  ImagePath = system32\drivers\npf.sys
+  Type      = Kernel driver
+  Start     = Auto Start
+  Group     = 
+
+  Name      = Npfs
+  Display   = 
+  ImagePath = 
+  Type      = File system driver
+  Start     = System Start
+  Group     = File system
+
+  Name      = Ntfs
+  Display   = 
+  ImagePath = 
+  Type      = File system driver
+  Start     = Disabled
+  Group     = File system
+
+  Name      = Null
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Base
+
+  Name      = PartMgr
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = System Bus Extender
+
+  Name      = ParVdm
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Auto Start
+  Group     = Extended base
+
+  Name      = PCI
+  Display   = PCI Bus Driver
+  ImagePath = system32\DRIVERS\pci.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = Boot Bus Extender
+
+  Name      = PCnet
+  Display   = AMD PCNET Compatable Adapter Driver
+  ImagePath = system32\DRIVERS\pcntpci5.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = NDIS
+
+  Name      = PolicyAgent
+  Display   = IPSEC Services
+  ImagePath = %SystemRoot%\system32\lsass.exe
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = PptpMiniport
+  Display   = WAN Miniport (PPTP)
+  ImagePath = system32\DRIVERS\raspptp.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = ProtectedStorage
+  Display   = Protected Storage
+  ImagePath = %SystemRoot%\system32\lsass.exe
+  Type      = 0x0
+  Start     = Auto Start
+  Group     = 
+
+  Name      = PSched
+  Display   = QoS Packet Scheduler
+  ImagePath = system32\DRIVERS\psched.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = PNP_TDI
+
+  Name      = Ptilink
+  Display   = Direct Parallel Link Driver
+  ImagePath = system32\DRIVERS\ptilink.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = RasAcd
+  Display   = Remote Access Auto Connection Driver
+  ImagePath = system32\DRIVERS\rasacd.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Streams Drivers
+
+  Name      = Rasl2tp
+  Display   = WAN Miniport (L2TP)
+  ImagePath = system32\DRIVERS\rasl2tp.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = RasMan
+  Display   = Remote Access Connection Manager
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = RasPppoe
+  Display   = Remote Access PPPOE Driver
+  ImagePath = system32\DRIVERS\raspppoe.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = Raspti
+  Display   = Direct Parallel
+  ImagePath = system32\DRIVERS\raspti.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = Rdbss
+  Display   = Rdbss
+  ImagePath = system32\DRIVERS\rdbss.sys
+  Type      = File system driver
+  Start     = System Start
+  Group     = Network
+
+  Name      = RDPCDD
+  Display   = 
+  ImagePath = System32\DRIVERS\RDPCDD.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Video Save
+
+  Name      = rdpdr
+  Display   = Terminal Server Device Redirector Driver
+  ImagePath = system32\DRIVERS\rdpdr.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = RDPNP
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = RemoteRegistry
+  Display   = Remote Registry
+  ImagePath = %SystemRoot%\system32\svchost.exe -k LocalService
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = RpcSs
+  Display   = Remote Procedure Call (RPC)
+  ImagePath = %SystemRoot%\system32\svchost -k rpcss
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = COM Infrastructure
+
+  Name      = SamSs
+  Display   = Security Accounts Manager
+  ImagePath = %SystemRoot%\system32\lsass.exe
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = LocalValidation
+
+  Name      = Schedule
+  Display   = Task Scheduler
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = SchedulerGroup
+
+  Name      = seclogon
+  Display   = Secondary Logon
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = 0x0
+  Start     = Auto Start
+  Group     = 
+
+  Name      = SENS
+  Display   = System Event Notification
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = Network
+
+  Name      = SharedAccess
+  Display   = Windows Firewall/Internet Connection Sharing (ICS)
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = ShellHWDetection
+  Display   = Shell Hardware Detection
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = ShellSvcGroup
+
+  Name      = Spooler
+  Display   = Print Spooler
+  ImagePath = %SystemRoot%\system32\spoolsv.exe
+  Type      = 0x0
+  Start     = Auto Start
+  Group     = SpoolerGroup
+
+  Name      = sr
+  Display   = System Restore Filter Driver
+  ImagePath = system32\DRIVERS\sr.sys
+  Type      = File system driver
+  Start     = Boot Start
+  Group     = FSFilter System Recovery
+
+  Name      = srservice
+  Display   = System Restore Service
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = Srv
+  Display   = Srv
+  ImagePath = system32\DRIVERS\srv.sys
+  Type      = File system driver
+  Start     = Manual
+  Group     = Network
+
+  Name      = SSDPSRV
+  Display   = SSDP Discovery Service
+  ImagePath = %SystemRoot%\system32\svchost.exe -k LocalService
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = stisvc
+  Display   = Windows Image Acquisition (WIA)
+  ImagePath = %SystemRoot%\system32\svchost.exe -k imgsvc
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = swenum
+  Display   = Software Bus Driver
+  ImagePath = system32\DRIVERS\swenum.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = TapiSrv
+  Display   = Telephony
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = Tcpip
+  Display   = TCP/IP Protocol Driver
+  ImagePath = system32\DRIVERS\tcpip.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = PNP_TDI
+
+  Name      = TermDD
+  Display   = Terminal Device Driver
+  ImagePath = system32\DRIVERS\termdd.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = 
+
+  Name      = TermService
+  Display   = Terminal Services
+  ImagePath = %SystemRoot%\System32\svchost -k DComLaunch
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = Themes
+  Display   = Themes
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = UIGroup
+
+  Name      = TrkWks
+  Display   = Distributed Link Tracking Client
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = Update
+  Display   = Microcode Update Driver
+  ImagePath = system32\DRIVERS\update.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = usbuhci
+  Display   = Microsoft USB Universal Host Controller Miniport Driver
+  ImagePath = system32\DRIVERS\usbuhci.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Base
+
+  Name      = VgaSave
+  Display   = 
+  ImagePath = \SystemRoot\System32\drivers\vga.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Video Save
+
+  Name      = VolSnap
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = System Bus Extender
+
+  Name      = W32Time
+  Display   = Windows Time
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = Wanarp
+  Display   = Remote Access IP ARP Driver
+  ImagePath = system32\DRIVERS\wanarp.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = WebClient
+  Display   = WebClient
+  ImagePath = %SystemRoot%\system32\svchost.exe -k LocalService
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = NetworkProvider
+
+  Name      = winmgmt
+  Display   = Windows Management Instrumentation
+  ImagePath = %systemroot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = wscsvc
+  Display   = Security Center
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = wuauserv
+  Display   = Automatic Updates
+  ImagePath = %systemroot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = WZCSVC
+  Display   = Wireless Zero Configuration
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = TDI
+
+Wed Oct 13 15:43:54 2010 Z
+  Name      = AFD
+  Display   = AFD
+  ImagePath = \SystemRoot\System32\drivers\afd.sys
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = TDI
+
+  Name      = ALG
+  Display   = Application Layer Gateway Service
+  ImagePath = %SystemRoot%\System32\alg.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = AudioSrv
+  Display   = Windows Audio
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = AudioGroup
+
+  Name      = Beep
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Base
+
+  Name      = Browser
+  Display   = Computer Browser
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = Cdfs
+  Display   = 
+  ImagePath = 
+  Type      = File system driver
+  Start     = Disabled
+  Group     = File system
+
+  Name      = clr_optimization_v2.0.50727_32
+  Display   = .NET Runtime Optimization Service v2.0.50727_X86
+  ImagePath = C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = Compbatt
+  Display   = Microsoft Composite Battery Driver
+  ImagePath = system32\DRIVERS\compbatt.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = System Bus Extender
+
+  Name      = COMSysApp
+  Display   = COM+ System Application
+  ImagePath = C:\WINDOWS\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = CryptSvc
+  Display   = Cryptographic Services
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = 
+
+  Name      = DcomLaunch
+  Display   = DCOM Server Process Launcher
+  ImagePath = %SystemRoot%\system32\svchost -k DcomLaunch
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = Event Log
+
+  Name      = Dhcp
+  Display   = DHCP Client
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = TDI
+
+  Name      = dmio
+  Display   = Logical Disk Manager Driver
+  ImagePath = System32\drivers\dmio.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = System Bus Extender
+
+  Name      = Ftdisk
+  Display   = Volume Manager Driver
+  ImagePath = system32\DRIVERS\ftdisk.sys
+  Type      = Kernel driver
+  Start     = Boot Start
+  Group     = System Bus Extender
+
+Fri Jun 12 14:08:21 2009 Z
+  Name      = rpcapd
+  Display   = Remote Packet Capture Protocol v.0 (experimental)
+  ImagePath = "%ProgramFiles%\WinPcap\rpcapd.exe" -d -f "%ProgramFiles%\WinPcap\rpcapd.ini"
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+Tue Mar  3 15:08:11 2009 Z
+  Name      = ASP.NET
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+Tue Mar  3 15:08:10 2009 Z
+  Name      = ASP.NET_2.0.50727
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = aspnet_state
+  Display   = ASP.NET State Service
+  ImagePath = %SystemRoot%\Microsoft.NET\Framework\v2.0.50727\aspnet_state.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+Tue Mar  3 15:08:01 2009 Z
+  Name      = .NET CLR Networking
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = .NET Data Provider for Oracle
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = .NET Data Provider for SqlServer
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+Tue Mar  3 15:08:00 2009 Z
+  Name      = .NET CLR Data
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = .NETFramework
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+Mon Feb 16 03:52:04 2009 Z
+  Name      = MSKSSRV
+  Display   = Microsoft Streaming Service Proxy
+  ImagePath = system32\drivers\MSKSSRV.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Extended Base
+
+  Name      = MSPCLOCK
+  Display   = Microsoft Streaming Clock Proxy
+  ImagePath = system32\drivers\MSPCLOCK.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Extended Base
+
+Mon Feb 16 03:52:02 2009 Z
+  Name      = MSPQM
+  Display   = Microsoft Streaming Quality Manager Proxy
+  ImagePath = system32\drivers\MSPQM.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Extended Base
+
+Mon Feb 16 03:50:16 2009 Z
+  Name      = ldap
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+Mon Feb 16 03:50:09 2009 Z
+  Name      = Abiosdsk
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = Primary disk
+
+  Name      = abp480n5
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = ACPIEC
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = Boot Bus Extender
+
+  Name      = adpu160m
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = Aha154x
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = aic78u2
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = aic78xx
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = AliIde
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = System Bus Extender
+
+  Name      = amsint
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = AppMgmt
+  Display   = Application Management
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = asc
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = asc3350p
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = asc3550
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = Atdisk
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = Primary disk
+
+  Name      = BattC
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = cbidf2k
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = cd20xrnt
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = Changer
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = Filter
+
+  Name      = CiSvc
+  Display   = Indexing Service
+  ImagePath = %SystemRoot%\system32\cisvc.exe
+  Type      = 0x0
+  Start     = Manual
+  Group     = 
+
+  Name      = ClipSrv
+  Display   = ClipBook
+  ImagePath = %SystemRoot%\system32\clipsrv.exe
+  Type      = Own_Process
+  Start     = Disabled
+  Group     = 
+
+  Name      = CmdIde
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = System Bus Extender
+
+  Name      = Cpqarray
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = dac2w2k
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = dac960nt
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = dmadmin
+  Display   = Logical Disk Manager Administrative Service
+  ImagePath = %SystemRoot%\System32\dmadmin.exe /com
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = dpti2o
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = HidServ
+  Display   = Human Interface Device Access
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Disabled
+  Group     = 
+
+  Name      = hpn
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = HTTPFilter
+  Display   = HTTP SSL
+  ImagePath = %SystemRoot%\System32\svchost.exe -k HTTPFilter
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = i2omgmt
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = SCSI Class
+
+  Name      = i2omp
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = ini910u
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = Inport
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = IRENUM
+  Display   = IR Enumerator Service
+  ImagePath = system32\DRIVERS\irenum.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = lbrtfdc
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = System Bus Extender
+
+  Name      = Modem
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = Extended base
+
+  Name      = mraid35x
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = NetDDE
+  Display   = Network DDE
+  ImagePath = %SystemRoot%\system32\netdde.exe
+  Type      = Share_Process
+  Start     = Disabled
+  Group     = NetDDEGroup
+
+  Name      = NetDDEdsdm
+  Display   = Network DDE DSDM
+  ImagePath = %SystemRoot%\system32\netdde.exe
+  Type      = Share_Process
+  Start     = Disabled
+  Group     = 
+
+  Name      = PCIDump
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = System Start
+  Group     = PCI Configuration
+
+  Name      = PCIIde
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = System Bus Extender
+
+  Name      = Pcmcia
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = System Bus Extender
+
+  Name      = perc2
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = perc2hib
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = Filter
+
+  Name      = PerfDisk
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = PerfNet
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = PerfOS
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = PerfProc
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = ql1080
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = Ql10wnt
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = ql12160
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = ql1240
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = ql1280
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = SCardSvr
+  Display   = Smart Card
+  ImagePath = %SystemRoot%\System32\SCardSvr.exe
+  Type      = Share_Process
+  Start     = Manual
+  Group     = SmartCardGroup
+
+  Name      = Simbad
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = Filter
+
+  Name      = Sparrow
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = symc810
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = symc8xx
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = sym_hi
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = sym_u3
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = SysmonLog
+  Display   = Performance Logs and Alerts
+  ImagePath = %SystemRoot%\system32\smlogsvc.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = TosIde
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = System Bus Extender
+
+  Name      = TSDDD
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = Udfs
+  Display   = 
+  ImagePath = 
+  Type      = File system driver
+  Start     = Disabled
+  Group     = File system
+
+  Name      = ultra
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = SCSI miniport
+
+  Name      = UPS
+  Display   = Uninterruptible Power Supply
+  ImagePath = %SystemRoot%\System32\ups.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = ViaIde
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Disabled
+  Group     = System Bus Extender
+
+  Name      = WinSock2
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = WinTrust
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = Wmi
+  Display   = Windows Management Instrumentation Driver Extensions
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = WS2IFSL
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = System Start
+  Group     = 
+
+  Name      = xmlprov
+  Display   = Network Provisioning Service
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:57:04 2009 Z
+  Name      = PlugPlay
+  Display   = Plug and Play
+  ImagePath = %SystemRoot%\system32\services.exe
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = PlugPlay
+
+Sun Feb 15 16:56:52 2009 Z
+  Name      = WmdmPmSN
+  Display   = Portable Media Serial Number Service
+  ImagePath = %SystemRoot%\System32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:56:42 2009 Z
+  Name      = NtmsSvc
+  Display   = Removable Storage
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = VSS
+  Display   = Volume Shadow Copy
+  ImagePath = %SystemRoot%\System32\vssvc.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:56:41 2009 Z
+  Name      = SwPrv
+  Display   = MS Software Shadow Copy Provider
+  ImagePath = C:\WINDOWS\system32\dllhost.exe /Processid:{E3E320C2-AD4A-43F4-80B3-D7DD33AED6E5}
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:56:30 2009 Z
+  Name      = RemoteAccess
+  Display   = Routing and Remote Access
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Disabled
+  Group     = 
+
+Sun Feb 15 16:56:26 2009 Z
+  Name      = TlntSvr
+  Display   = Telnet
+  ImagePath = C:\WINDOWS\system32\tlntsvr.exe
+  Type      = Own_Process
+  Start     = Disabled
+  Group     = 
+
+Sun Feb 15 16:55:58 2009 Z
+  Name      = ImapiService
+  Display   = IMAPI CD-Burning COM Service
+  ImagePath = C:\WINDOWS\system32\imapi.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:55:46 2009 Z
+  Name      = BITS
+  Display   = Background Intelligent Transfer Service
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = upnphost
+  Display   = Universal Plug and Play Device Host
+  ImagePath = %SystemRoot%\system32\svchost.exe -k LocalService
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:55:44 2009 Z
+  Name      = mnmsrvc
+  Display   = NetMeeting Remote Desktop Sharing
+  ImagePath = C:\WINDOWS\system32\mnmsrvc.exe
+  Type      = 0x0
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:55:42 2009 Z
+  Name      = inetaccs
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = Secdrv
+  Display   = Secdrv
+  ImagePath = system32\DRIVERS\secdrv.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = W3SVC
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+Sun Feb 15 16:55:13 2009 Z
+  Name      = RDSessMgr
+  Display   = Remote Desktop Help Session Manager
+  ImagePath = C:\WINDOWS\system32\sessmgr.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:54:59 2009 Z
+  Name      = WmiApSrv
+  Display   = WMI Performance Adapter
+  ImagePath = C:\WINDOWS\system32\wbem\wmiapsrv.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:54:58 2009 Z
+  Name      = WmiApRpl
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+Sun Feb 15 16:54:43 2009 Z
+  Name      = LicenseService
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = PDCOMP
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = PDFRAME
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = PDRELI
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = PDRFRAME
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = RDPDD
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = RDPWD
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = TDPIPE
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = TDTCP
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = WDICA
+  Display   = 
+  ImagePath = 
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:54:22 2009 Z
+  Name      = ContentFilter
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = ContentIndex
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+  Name      = ISAPISearch
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+Sun Feb 15 16:54:12 2009 Z
+  Name      = Ip6Fw
+  Display   = IPv6 Windows Firewall Driver
+  ImagePath = system32\DRIVERS\Ip6Fw.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = IpFilterDriver
+  Display   = IP Traffic Filter Driver
+  ImagePath = system32\DRIVERS\ipfltdrv.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = IpInIp
+  Display   = IP in IP Tunnel Driver
+  ImagePath = system32\DRIVERS\ipinip.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = NwlnkFlt
+  Display   = IPX Traffic Filter Driver
+  ImagePath = system32\DRIVERS\nwlnkflt.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = NwlnkFwd
+  Display   = IPX Traffic Forwarder Driver
+  ImagePath = system32\DRIVERS\nwlnkfwd.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:54:09 2009 Z
+  Name      = RasAuto
+  Display   = Remote Access Auto Connection Manager
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:54:06 2009 Z
+  Name      = Alerter
+  Display   = Alerter
+  ImagePath = %SystemRoot%\system32\svchost.exe -k LocalService
+  Type      = Share_Process
+  Start     = Disabled
+  Group     = 
+
+  Name      = Messenger
+  Display   = Messenger
+  ImagePath = %SystemRoot%\system32\svchost.exe -k netsvcs
+  Type      = Share_Process
+  Start     = Disabled
+  Group     = 
+
+  Name      = Netlogon
+  Display   = Net Logon
+  ImagePath = %SystemRoot%\system32\lsass.exe
+  Type      = Share_Process
+  Start     = Manual
+  Group     = RemoteValidation
+
+  Name      = NtLmSsp
+  Display   = NT LM Security Support Provider
+  ImagePath = %SystemRoot%\system32\lsass.exe
+  Type      = Share_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = RpcLocator
+  Display   = Remote Procedure Call (RPC) Locator
+  ImagePath = %SystemRoot%\system32\locator.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:54:03 2009 Z
+  Name      = RSVP
+  Display   = QoS RSVP
+  ImagePath = %SystemRoot%\system32\rsvp.exe
+  Type      = Own_Process
+  Start     = Manual
+  Group     = 
+
+  Name      = {08D29489-BCA9-4BE5-92EA-C5DCAFE9F7F4}
+  Display   = 
+  ImagePath = 
+  Type      = 
+  Start     = 
+  Group     = 
+
+Sun Feb 15 16:54:02 2009 Z
+  Name      = Atmarpc
+  Display   = ATM ARP Client Protocol
+  ImagePath = system32\DRIVERS\atmarpc.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = NDIS
+
+  Name      = Winsock
+  Display   = 
+  ImagePath = 
+  Type      = 0x0
+  Start     = Manual
+  Group     = 
+
+Sun Feb 15 16:54:00 2009 Z
+  Name      = AsyncMac
+  Display   = RAS Asynchronous Media Driver
+  ImagePath = system32\DRIVERS\asyncmac.sys
+  Type      = Kernel driver
+  Start     = Manual
+  Group     = 
+
+  Name      = Eventlog
+  Display   = Event Log
+  ImagePath = %SystemRoot%\system32\services.exe
+  Type      = Share_Process
+  Start     = Auto Start
+  Group     = Event log
+
+----------------------------------------
+shares v.20200525
+(System) Get list of shares from System hive file
+
+ControlSet001\Services\lanmanserver\Shares has no values.
+  NullSessionShares = COMCFG DFS$
+----------------------------------------
+shimcache v.20220921
+(System) Parse file refs from System hive AppCompatCache data
+
+*** ControlSet001 ***
+ControlSet001\Control\Session Manager\AppCompatibility
+LastWrite Time: 2010-10-13 16:19:24Z
+Signature: 0xdeadbeef
+WinXP, 32-bit
+C:\WINDOWS\system32\twext.dll  2006-02-28 11:59:59  2010-05-04 13:28:40  44032 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Movie Maker\moviemk.exe  2006-02-28 11:59:59  2010-07-29 14:03:58  3555328 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_regiis.exe  2005-09-22 20:28:32  2009-03-03 15:08:08  26824 bytes
+C:\Program Files\Wireshark\dumpcap.exe  2011-04-18 19:03:47  2010-10-13 16:09:57  83456 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Outlook Express\msimn.exe  2006-02-28 11:59:59  2010-10-13 16:18:30  60416 bytes
+C:\WINDOWS\system32\webcheck.dll  2006-02-28 11:59:59  2009-03-03 14:59:15  276480 bytes
+C:\Program Files\Nmap\nmap.exe  2011-02-11 22:35:26  2010-05-04 12:40:56  748032 bytes
+C:\Program Files\Nmap\vcredist_x86.exe  2011-02-11 21:23:38  2009-06-12 14:15:57  5073240 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Cain\Cain.exe  2011-04-07 11:21:47  2010-05-04 13:26:07  1273344 bytes
+C:\WINDOWS\system32\shgina.dll  2006-02-28 11:59:59  2010-08-05 15:40:00  68096 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Toolz\ipcscan\IpcScan-gui.exe  2002-10-12 03:14:31  2010-05-04 13:24:17  143360 bytes
+C:\Documents and Settings\Ima Hacker\Application Data\Mozilla\Firefox\Profiles\65qsm3on.default\extensions\firesheep@codebutler.com\platform\WINNT_x86-msvc\firesheep-backend.exe  2010-10-21 10:12:40  2010-08-05 15:07:24  3920702 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ngen.exe  2005-09-22 20:28:56  2009-03-03 15:09:18  96440 bytes
+C:\Program Files\Outlook Express\setup50.exe  2006-02-28 11:59:59  2009-02-15 17:02:28  73216 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\Fiddler2Setup.exe  2009-03-03 14:56:59  2009-03-03 15:01:39  639824 bytes
+C:\Program Files\Nmap\winpcap-nmap-4.12.exe  2011-02-11 22:35:28  2009-06-12 14:16:06  428664 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\nmap-5.51-setup.exe  2009-06-12 14:15:46  2009-06-12 14:15:46  19910546 bytes
+C:\Program Files\Nmap\zenmap.exe  2011-02-11 22:35:44  2010-05-04 12:40:48  46592 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Messenger\msmsgs.exe  2004-08-03 14:06:34  2010-10-13 15:44:12  1667584 bytes
+C:\WINDOWS\system32\msieftp.dll  2006-02-28 11:59:59  2009-06-12 14:01:45  248832 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Mozilla Firefox\plugin-container.exe  2011-03-19 23:27:26  2010-08-05 15:06:48  16856 bytes
+C:\WINDOWS\system32\urlmon.dll  2006-02-28 11:59:59  2009-03-03 14:57:57  612352 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe  2005-09-22 20:28:56  2009-03-03 15:08:13  32768 bytes
+C:\Program Files\FileZilla FTP Client\fzshellext.dll  2011-03-27 20:11:04  2010-08-05 14:57:26  94208 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\System32\cscui.dll  2006-02-28 11:59:59  2010-10-13 16:18:21  326656 bytes
+C:\WINDOWS\system32\NETSHELL.dll  2006-02-28 11:59:59  2010-10-13 15:44:12  1708032 bytes
+C:\Program Files\Mozilla Firefox\uninstall\helper.exe  2011-03-19 23:27:03  2009-06-12 14:35:30  552376 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\CJIP4PUH\NetFx20SP2_x86[1].exe  2009-03-03 14:59:37  2009-03-03 14:59:37  25001480 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\7z920.exe  2010-05-04 13:18:02  2010-05-04 13:19:05  1110476 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\wireshark-win32-1.4.6[1].exe  2009-06-12 14:07:02  2009-06-12 14:07:02  19482969 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\tourstart.exe  2006-02-28 11:59:59  2009-02-15 17:03:16  347136 bytes
+C:\Program Files\Fiddler2\Fiddler.exe  2011-04-25 02:02:04  2009-03-03 15:59:02  709544 bytes
+C:\WINDOWS\system32\mstask.dll  2006-02-28 11:59:59  2010-05-04 13:42:18  274944 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\regtlibv12.exe  2005-09-22 20:29:02  2009-03-03 15:07:51  59072 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll    2009-03-03 15:59:02  0 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\FileZilla_3.4.0_win32-setup.exe  2010-05-04 13:38:34  2010-05-04 13:38:41  4256366 bytes
+C:\WINDOWS\Installer\MSI29.tmp  2010-10-13 16:09:52  2010-10-13 16:09:52  47104 bytes
+C:\WINDOWS\msagent\agentsvr.exe  2006-02-28 11:59:59  2009-02-15 17:00:47  256512 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\FoxitReader431_enu_Setup.exe  2010-10-13 16:09:14  2010-10-13 16:09:26  7935480 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe  2005-09-22 20:28:56  2009-03-03 15:20:16  66240 bytes
+C:\WINDOWS\system32\wscntfy.exe  2006-02-28 11:59:59  2010-05-04 13:26:20  13824 bytes
+C:\Program Files\Notepad++\notepad++.exe  2011-03-30 22:25:04  2010-10-13 16:10:40  1523712 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\7-Zip\7-zip.dll  2010-11-18 16:08:12  2010-10-13 16:10:39  55808 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Wireshark\WinPcap_4_1_2.exe  2011-04-18 18:48:03  2009-06-12 14:07:26  915920 bytes
+C:\WINDOWS\system32\zipfldr.dll  2006-02-28 11:59:59  2010-05-04 13:19:47  337920 bytes
+C:\WINDOWS\system32\mydocs.dll  2006-02-28 11:59:59  2010-08-05 14:57:26  90624 bytes
+C:\WINDOWS\system32\logon.scr  2006-02-28 11:59:59  2009-03-03 14:21:57  220672 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\UDM5CTEP\WindowsXP-KB942288-v3-x86[1].exe  2009-03-03 15:02:25  2009-03-03 15:02:25  3327000 bytes
+C:\WINDOWS\Matrix_ks.SCR  2009-02-09 13:46:33  2010-08-05 14:34:30  3013120 bytes
+    1970-01-01 00:00:00  0 bytes
+c:\b3cfe1678135eed0fd536d53\install.exe  2009-07-11 17:55:40  2009-06-12 14:16:44  560464 bytes
+c:\0f8ba26f554b351c66046712d8b92ca8\UPDATE\update.exe  2007-11-29 17:18:52  2009-03-03 15:02:26  755576 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\dotnetfx.exe  2009-03-03 15:07:22  2009-03-03 15:07:22  23510720 bytes
+C:\Program Files\Nmap\vcredist2008_x86.exe  2011-02-11 21:23:38  2009-06-12 14:16:43  4485976 bytes
+C:\Program Files\Notepad++\updater\GUP.exe  2011-02-09 00:56:34  2010-10-13 16:10:41  135168 bytes
+C:\WINDOWS\inf\unregmp2.exe  2006-02-28 11:59:59  2009-02-15 17:02:27  208896 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Wireshark\wireshark.exe  2011-04-18 19:03:11  2010-10-13 16:09:55  2301440 bytes
+C:\Program Files\Foxit Software\Foxit Reader\Foxit Reader.exe  2010-10-13 16:09:31  2010-10-13 16:10:34  11658744 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\burpsuite_v1.3.03\suite.bat  2010-05-02 22:07:00  2009-03-03 15:58:44  40 bytes
+C:\Program Files\Notepad++\NppShell_04.dll  2011-02-09 00:56:38  2010-10-13 16:10:39  296448 bytes
+C:\Program Files\7-Zip\7zFM.exe  2010-11-18 16:09:00  2010-10-13 16:10:50  421888 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\ca_setup.exe  2010-05-04 13:17:51  2010-05-04 13:21:44  7967675 bytes
+C:\WINDOWS\system32\oobe\msoobe.exe  2006-02-28 11:59:59  2009-02-15 17:00:31  28160 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\Matrix_ks[1].exe  2009-03-03 14:21:25  2009-03-03 14:21:25  1703157 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Ask.com\TaskScheduler.exe  2010-09-28 12:44:28  2010-10-13 16:10:02  109448 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\Firefox%20Setup%203.6.16[1].exe  2009-03-03 15:54:13  2009-03-03 15:54:13  8579448 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\shimgvw.dll  2006-02-28 11:59:59  2010-10-13 16:10:16  438272 bytes
+C:\Program Files\Mozilla Firefox\firefox.exe  2011-03-19 23:27:07  2010-10-13 15:57:38  912344 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\npp.5.9.Installer.exe  2010-05-04 13:25:44  2010-05-04 13:29:35  5576634 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\shdocvw.dll  2006-02-28 11:59:59  2010-07-29 14:04:05  1492480 bytes
+C:\Program Files\FileZilla FTP Client\filezilla.exe  2011-03-27 20:11:04  2010-05-04 13:38:57  7642112 bytes
+C:\WINDOWS\system32\mscoree.dll    2010-10-13 16:09:48  0 bytes
+
+*** ControlSet002 ***
+ControlSet002\Control\Session Manager\AppCompatibility
+LastWrite Time: 2010-08-05 15:43:00Z
+Signature: 0xdeadbeef
+WinXP, 32-bit
+C:\Program Files\Nmap\vcredist_x86.exe  2011-02-11 21:23:38  2009-06-12 14:15:57  5073240 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Cain\Cain.exe  2011-04-07 11:21:47  2010-05-04 13:26:07  1273344 bytes
+C:\WINDOWS\system32\shgina.dll  2006-02-28 11:59:59  2010-08-05 15:40:00  68096 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Outlook Express\msimn.exe  2006-02-28 11:59:59  2010-08-05 15:40:19  60416 bytes
+C:\WINDOWS\system32\webcheck.dll  2006-02-28 11:59:59  2009-03-03 14:59:15  276480 bytes
+C:\Program Files\Nmap\nmap.exe  2011-02-11 22:35:26  2010-05-04 12:40:56  748032 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\twext.dll  2006-02-28 11:59:59  2010-05-04 13:28:40  44032 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Movie Maker\moviemk.exe  2006-02-28 11:59:59  2010-07-29 14:03:58  3555328 bytes
+C:\Program Files\Wireshark\dumpcap.exe  2011-04-18 19:03:47  2010-08-05 15:00:02  83456 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_regiis.exe  2005-09-22 20:28:32  2009-03-03 15:08:08  26824 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe  2005-09-22 20:28:56  2009-03-03 15:08:13  32768 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\FileZilla FTP Client\fzshellext.dll  2011-03-27 20:11:04  2010-08-05 14:57:26  94208 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\msieftp.dll  2006-02-28 11:59:59  2009-06-12 14:01:45  248832 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Mozilla Firefox\plugin-container.exe  2011-03-19 23:27:26  2010-08-05 15:06:48  16856 bytes
+C:\WINDOWS\system32\urlmon.dll  2006-02-28 11:59:59  2009-03-03 14:57:57  612352 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\Fiddler2Setup.exe  2009-03-03 14:56:59  2009-03-03 15:01:39  639824 bytes
+C:\Program Files\Nmap\winpcap-nmap-4.12.exe  2011-02-11 22:35:28  2009-06-12 14:16:06  428664 bytes
+C:\Program Files\Nmap\zenmap.exe  2011-02-11 22:35:44  2010-05-04 12:40:48  46592 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\nmap-5.51-setup.exe  2009-06-12 14:15:46  2009-06-12 14:15:46  19910546 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Messenger\msmsgs.exe  2004-08-03 14:06:34  2010-08-05 14:20:29  1667584 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Toolz\ipcscan\IpcScan-gui.exe  2002-10-12 03:14:31  2010-05-04 13:24:17  143360 bytes
+C:\Documents and Settings\Ima Hacker\Application Data\Mozilla\Firefox\Profiles\65qsm3on.default\extensions\firesheep@codebutler.com\platform\WINNT_x86-msvc\firesheep-backend.exe  2010-10-21 10:12:40  2010-08-05 15:07:24  3920702 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\ngen.exe  2005-09-22 20:28:56  2009-03-03 15:09:18  96440 bytes
+C:\Program Files\Outlook Express\setup50.exe  2006-02-28 11:59:59  2009-02-15 17:02:28  73216 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\7-Zip\7-zip.dll  2010-11-18 16:08:12  2010-08-05 15:35:40  55808 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\Wireshark\WinPcap_4_1_2.exe  2011-04-18 18:48:03  2009-06-12 14:07:26  915920 bytes
+C:\WINDOWS\system32\zipfldr.dll  2006-02-28 11:59:59  2010-05-04 13:19:47  337920 bytes
+C:\WINDOWS\system32\mydocs.dll  2006-02-28 11:59:59  2010-08-05 14:57:26  90624 bytes
+C:\WINDOWS\system32\logon.scr  2006-02-28 11:59:59  2009-03-03 14:21:57  220672 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\UDM5CTEP\WindowsXP-KB942288-v3-x86[1].exe  2009-03-03 15:02:25  2009-03-03 15:02:25  3327000 bytes
+C:\WINDOWS\Matrix_ks.SCR  2009-02-09 13:46:33  2010-08-05 14:34:30  3013120 bytes
+    1970-01-01 00:00:00  0 bytes
+c:\b3cfe1678135eed0fd536d53\install.exe  2009-07-11 17:55:40  2009-06-12 14:16:44  560464 bytes
+C:\WINDOWS\msagent\agentsvr.exe  2006-02-28 11:59:59  2009-02-15 17:00:47  256512 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe  2005-09-22 20:28:56  2009-03-03 15:20:16  66240 bytes
+C:\WINDOWS\system32\wscntfy.exe  2006-02-28 11:59:59  2010-05-04 13:26:20  13824 bytes
+C:\Program Files\Notepad++\notepad++.exe  2011-03-30 22:25:04  2010-05-04 13:34:45  1523712 bytes
+C:\WINDOWS\system32\tourstart.exe  2006-02-28 11:59:59  2009-02-15 17:03:16  347136 bytes
+C:\WINDOWS\system32\mstask.dll  2006-02-28 11:59:59  2010-05-04 13:42:18  274944 bytes
+C:\Program Files\Fiddler2\Fiddler.exe  2011-04-25 02:02:04  2009-03-03 15:59:02  709544 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\regtlibv12.exe  2005-09-22 20:29:02  2009-03-03 15:07:51  59072 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll    2009-03-03 15:59:02  0 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\FileZilla_3.4.0_win32-setup.exe  2010-05-04 13:38:34  2010-05-04 13:38:41  4256366 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\System32\cscui.dll  2006-02-28 11:59:59  2010-08-05 15:40:50  326656 bytes
+C:\WINDOWS\system32\NETSHELL.dll  2006-02-28 11:59:59  2010-08-05 14:20:29  1708032 bytes
+C:\Program Files\Mozilla Firefox\uninstall\helper.exe  2011-03-19 23:27:03  2009-06-12 14:35:30  552376 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\CJIP4PUH\NetFx20SP2_x86[1].exe  2009-03-03 14:59:37  2009-03-03 14:59:37  25001480 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\7z920.exe  2010-05-04 13:18:02  2010-05-04 13:19:05  1110476 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\wireshark-win32-1.4.6[1].exe  2009-06-12 14:07:02  2009-06-12 14:07:02  19482969 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\WINDOWS\system32\shdocvw.dll  2006-02-28 11:59:59  2010-07-29 14:04:05  1492480 bytes
+C:\Program Files\FileZilla FTP Client\filezilla.exe  2011-03-27 20:11:04  2010-05-04 13:38:57  7642112 bytes
+C:\WINDOWS\system32\mscoree.dll    2009-06-12 14:16:45  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\Firefox%20Setup%203.6.16[1].exe  2009-03-03 15:54:13  2009-03-03 15:54:13  8579448 bytes
+C:\WINDOWS\system32\shimgvw.dll  2006-02-28 11:59:59  2010-05-04 13:33:21  438272 bytes
+C:\Program Files\Mozilla Firefox\firefox.exe  2011-03-19 23:27:07  2010-08-05 14:58:44  912344 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\npp.5.9.Installer.exe  2010-05-04 13:25:44  2010-05-04 13:29:35  5576634 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\burpsuite_v1.3.03\suite.bat  2010-05-02 22:07:00  2009-03-03 15:58:44  40 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Program Files\7-Zip\7zFM.exe  2010-11-18 16:09:00  2010-05-04 13:19:23  421888 bytes
+C:\Program Files\Notepad++\NppShell_04.dll  2011-02-09 00:56:38  2010-08-05 15:35:40  296448 bytes
+C:\Documents and Settings\Ima Hacker\My Documents\Downloads\ca_setup.exe  2010-05-04 13:17:51  2010-05-04 13:21:44  7967675 bytes
+C:\WINDOWS\system32\oobe\msoobe.exe  2006-02-28 11:59:59  2009-02-15 17:00:31  28160 bytes
+    1970-01-01 00:00:00  0 bytes
+C:\Documents and Settings\Ima Hacker\Local Settings\Temporary Internet Files\Content.IE5\IZQDETYP\Matrix_ks[1].exe  2009-03-03 14:21:25  2009-03-03 14:21:25  1703157 bytes
+c:\0f8ba26f554b351c66046712d8b92ca8\UPDATE\update.exe  2007-11-29 17:18:52  2009-03-03 15:02:26  755576 bytes
+C:\Program Files\Nmap\vcredist2008_x86.exe  2011-02-11 21:23:38  2009-06-12 14:16:43  4485976 bytes
+C:\Documents and Settings\Ima Hacker\Desktop\dotnetfx.exe  2009-03-03 15:07:22  2009-03-03 15:07:22  23510720 bytes
+C:\Program Files\Notepad++\updater\GUP.exe  2011-02-09 00:56:34  2010-05-04 13:30:42  135168 bytes
+C:\WINDOWS\inf\unregmp2.exe  2006-02-28 11:59:59  2009-02-15 17:02:27  208896 bytes
+C:\Program Files\Wireshark\wireshark.exe  2011-04-18 19:03:11  2010-08-05 14:59:59  2301440 bytes
+    1970-01-01 00:00:00  0 bytes
+
+----------------------------------------
+shutdown v.20200518
+(System) Gets ShutdownTime value from System hive
+
+ControlSet001\Control\Windows key, ShutdownTime value
+LastWrite time: 2010-10-13 16:19:26Z
+ShutdownTime  : 2010-10-13 16:19:26Z
+----------------------------------------
+source_os v.20200511
+(System) Parse Source OS subkey values
+
+----------------------------------------
+svc v.20200525
+(System) Lists Services key contents by LastWrite time (CSV)
+
+Time,Name,DisplayName,ImagePath/ServiceDll,Type,Start,ObjectName
+2010-10-13 16:19:22Z,Dhcp\Parameters,,%SystemRoot%\System32\dhcpcsvc.dll,,,,
+2010-10-13 15:44:12Z,aec,Microsoft Kernel Acoustic Echo Canceller,system32\drivers\aec.sys,Kernel driver,Manual,,
+2010-10-13 15:44:12Z,DMusic,Microsoft Kernel DLS Syntheiszer,system32\drivers\DMusic.sys,Kernel driver,Manual,,Detects and monitors new hard disk drives and sends disk volume information to Logical Disk Manager Administrative Service for configuration. If this service is stopped, dynamic disk status and configuration information may become out of date. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:44:12Z,drmkaud,Microsoft Kernel DRM Audio Descrambler,system32\drivers\drmkaud.sys,Kernel driver,Manual,,Resolves and caches Domain Name System (DNS) names for this computer. If this service is stopped, this computer will not be able to resolve DNS names and locate Active Directory domain controllers. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:44:12Z,kmixer,Microsoft Kernel Wave Audio Mixer,system32\drivers\kmixer.sys,Kernel driver,Manual,,IPSEC driver
+2010-10-13 15:44:12Z,splitter,Microsoft Kernel Audio Splitter,system32\drivers\splitter.sys,Kernel driver,Manual,,Provides notifications for AutoPlay hardware events.
+2010-10-13 15:44:12Z,swmidi,Microsoft Kernel GS Wavetable Synthesizer,system32\drivers\swmidi.sys,Kernel driver,Manual,,Provides image acquisition services for scanners and cameras.
+2010-10-13 15:44:12Z,sysaudio,Microsoft Kernel System Audio Device,system32\drivers\sysaudio.sys,Kernel driver,Manual,,Manages software-based volume shadow copies taken by the Volume Shadow Copy service. If this service is stopped, software-based volume shadow copies cannot be managed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:44:12Z,wdmaud,Microsoft WINMM WDM Audio Compatibility Driver,system32\drivers\wdmaud.sys,Kernel driver,Manual,,Remote Access IP ARP Driver
+2010-10-13 15:44:11Z,lanmanserver\Parameters,,%SystemRoot%\System32\srvsvc.dll,,,,
+2010-10-13 15:44:03Z,hidusb,Microsoft HID Class Driver,system32\DRIVERS\hidusb.sys,Kernel driver,Manual,,Enables generic input access to Human Interface Devices (HID), which activates and maintains the use of predefined hot buttons on keyboards, remote controls, and other multimedia devices. If this service is stopped, hot buttons controlled by this service will no longer function. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:44:03Z,mouhid,Mouse HID Driver,system32\DRIVERS\mouhid.sys,Kernel driver,Manual,,Enables an authorized user to access this computer remotely by using NetMeeting over a corporate intranet. If this service is stopped, remote desktop sharing will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:44:03Z,usbccgp,Microsoft USB Generic Parent Driver,system32\DRIVERS\usbccgp.sys,Kernel driver,Manual,,Manages an uninterruptible power supply (UPS) connected to the computer.
+2010-10-13 15:44:02Z,Cdaudio,,,Kernel driver,System Start,,Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:44:02Z,Imapi,CD-Burning Filter Driver,system32\DRIVERS\imapi.sys,Kernel driver,System Start,,This service implements the secure hypertext transfer protocol (HTTPS) for the HTTP service,  using the Secure Socket Layer (SSL).  If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:44:02Z,Parport,Parallel port driver,system32\DRIVERS\parport.sys,Kernel driver,Manual,,IPX Traffic Forwarder Driver
+2010-10-13 15:44:02Z,Sfloppy,,,Kernel driver,System Start,,Tracks system events such as Windows logon, network, and power events.  Notifies COM+ Event System subscribers of these events.
+2010-10-13 15:44:01Z,Flpydisk,Floppy Disk Driver,system32\DRIVERS\flpydisk.sys,Kernel driver,Manual,,Provides management for applications that require assistance in a multiple user environment.
+2010-10-13 15:44:01Z,gameenum,Game Port Enumerator,system32\DRIVERS\gameenum.sys,Kernel driver,Manual,,File System Filter Manager Driver
+2010-10-13 15:44:01Z,mssmbios,Microsoft System Management BIOS Driver,system32\DRIVERS\mssmbios.sys,Kernel driver,Manual,,Adds, modifies, and removes applications provided as a Windows Installer (*.msi) package. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:44:01Z,usbhub,Microsoft USB Standard Hub Driver,system32\DRIVERS\usbhub.sys,Kernel driver,Manual,,Manages an uninterruptible power supply (UPS) connected to the computer.
+2010-10-13 15:43:57Z,Cdrom,CD-ROM Driver,system32\DRIVERS\cdrom.sys,Kernel driver,System Start,,Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:57Z,redbook,Digital CD Audio Playback Filter Driver,system32\DRIVERS\redbook.sys,Kernel driver,System Start,,Manages and controls Remote Assistance. If this service is stopped, Remote Assistance will be unavailable. Before stopping this service, see the Dependencies tab of the Properties dialog box.
+2010-10-13 15:43:56Z,atapi,Standard IDE/ESDI Hard Disk Controller,system32\DRIVERS\atapi.sys,Kernel driver,Boot Start,,RAS Asynchronous Media Driver
+2010-10-13 15:43:56Z,Disk,Disk Driver,system32\DRIVERS\disk.sys,Kernel driver,Boot Start,,Manages network configuration by registering and updating IP addresses and DNS names.
+2010-10-13 15:43:56Z,es1371,Creative AudioPCI (ES1371;ES1373) (WDM),system32\drivers\es1371mp.sys,Kernel driver,Manual,,Allows error reporting for services and applictions running in non-standard environments.
+2010-10-13 15:43:56Z,Fdc,Floppy Disk Controller Driver,system32\DRIVERS\fdc.sys,Kernel driver,Manual,,Provides management for applications that require assistance in a multiple user environment.
+2010-10-13 15:43:56Z,i8042prt,i8042 Keyboard and PS/2 Mouse Port Driver,system32\DRIVERS\i8042prt.sys,Kernel driver,System Start,,This service implements the secure hypertext transfer protocol (HTTPS) for the HTTP service,  using the Secure Socket Layer (SSL).  If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:56Z,serenum,Serenum Filter Driver,system32\DRIVERS\serenum.sys,Kernel driver,Manual,,Tracks system events such as Windows logon, network, and power events.  Notifies COM+ Event System subscribers of these events.
+2010-10-13 15:43:56Z,Serial,Serial port driver,system32\DRIVERS\serial.sys,Kernel driver,System Start,,Tracks system events such as Windows logon, network, and power events.  Notifies COM+ Event System subscribers of these events.
+2010-10-13 15:43:56Z,usbehci,Microsoft USB 2.0 Enhanced Host Controller Miniport Driver,system32\DRIVERS\usbehci.sys,Kernel driver,Manual,,Manages an uninterruptible power supply (UPS) connected to the computer.
+2010-10-13 15:43:55Z,ACPI,Microsoft ACPI Driver,system32\DRIVERS\ACPI.sys,Kernel driver,Boot Start,,
+2010-10-13 15:43:55Z,agp440,Intel AGP Bus Filter,system32\DRIVERS\agp440.sys,Kernel driver,Boot Start,,AFD Networking Support Environment
+2010-10-13 15:43:55Z,audstub,Audio Stub Driver,system32\DRIVERS\audstub.sys,Kernel driver,Manual,,Manages audio devices for Windows-based programs. If this service is stopped, audio devices and effects will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,CmBatt,Microsoft AC Adapter Driver,system32\DRIVERS\CmBatt.sys,Kernel driver,Manual,,Microsoft .NET Framework NGEN
+2010-10-13 15:43:55Z,dmboot,,System32\drivers\dmboot.sys,Kernel driver,Disabled,,Configures hard disk drives and volumes. The service only runs for configuration processes and then stops.
+2010-10-13 15:43:55Z,dmload,,System32\drivers\dmload.sys,Kernel driver,Boot Start,,Configures hard disk drives and volumes. The service only runs for configuration processes and then stops.
+2010-10-13 15:43:55Z,dmserver,Logical Disk Manager,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Detects and monitors new hard disk drives and sends disk volume information to Logical Disk Manager Administrative Service for configuration. If this service is stopped, dynamic disk status and configuration information may become out of date. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,Dnscache,DNS Client,%SystemRoot%\system32\svchost.exe -k NetworkService,Share_Process,Auto Start,NT AUTHORITY\NetworkService,Resolves and caches Domain Name System (DNS) names for this computer. If this service is stopped, this computer will not be able to resolve DNS names and locate Active Directory domain controllers. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,ERSvc,Error Reporting Service,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Allows error reporting for services and applictions running in non-standard environments.
+2010-10-13 15:43:55Z,EventSystem,COM+ Event System,C:\WINDOWS\system32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Supports System Event Notification Service (SENS), which provides automatic distribution of events to subscribing Component Object Model (COM) components. If the service is stopped, SENS will close and will not be able to provide logon and logoff notifications. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,Fastfat,,,File system driver,Disabled,,Supports System Event Notification Service (SENS), which provides automatic distribution of events to subscribing Component Object Model (COM) components. If the service is stopped, SENS will close and will not be able to provide logon and logoff notifications. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,FastUserSwitchingCompatibility,Fast User Switching Compatibility,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Provides management for applications that require assistance in a multiple user environment.
+2010-10-13 15:43:55Z,Fips,,,Kernel driver,System Start,,Provides management for applications that require assistance in a multiple user environment.
+2010-10-13 15:43:55Z,FltMgr,FltMgr,system32\DRIVERS\fltMgr.sys,File system driver,Boot Start,,File System Filter Manager Driver
+2010-10-13 15:43:55Z,Fs_Rec,,,8,System Start,,File System Filter Manager Driver
+2010-10-13 15:43:55Z,Gpc,Generic Packet Classifier,system32\DRIVERS\msgpc.sys,Kernel driver,Manual,,Generic Packet Classifier
+2010-10-13 15:43:55Z,helpsvc,Help and Support,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Enables Help and Support Center to run on this computer. If this service is stopped, Help and Support Center will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,HTTP,HTTP,System32\Drivers\HTTP.sys,Kernel driver,Manual,,This service implements the hypertext transfer protocol (HTTP). If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,IntelIde,,system32\DRIVERS\intelide.sys,Kernel driver,Boot Start,,Manages CD recording using Image Mastering Applications Programming Interface (IMAPI). If this service is stopped, this computer will be unable to record CDs. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,intelppm,Intel Processor Driver,system32\DRIVERS\intelppm.sys,Kernel driver,System Start,,Manages CD recording using Image Mastering Applications Programming Interface (IMAPI). If this service is stopped, this computer will be unable to record CDs. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,IpNat,IP Network Address Translator,system32\DRIVERS\ipnat.sys,Kernel driver,Manual,,IP Network Address Translator
+2010-10-13 15:43:55Z,IPSec,IPSEC driver,system32\DRIVERS\ipsec.sys,Kernel driver,System Start,,IPSEC driver
+2010-10-13 15:43:55Z,isapnp,PnP ISA/EISA Bus Driver,system32\DRIVERS\isapnp.sys,Kernel driver,Boot Start,,IPSEC driver
+2010-10-13 15:43:55Z,Kbdclass,Keyboard Class Driver,system32\DRIVERS\kbdclass.sys,Kernel driver,System Start,,IPSEC driver
+2010-10-13 15:43:55Z,KSecDD,,,Kernel driver,Boot Start,,IPSEC driver
+2010-10-13 15:43:55Z,lanmanserver,Server,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Supports file, print, and named-pipe sharing over the network for this computer. If this service is stopped, these functions will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,lanmanworkstation,Workstation,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Creates and maintains client network connections to remote servers. If this service is stopped, these connections will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,LmHosts,TCP/IP NetBIOS Helper,%SystemRoot%\system32\svchost.exe -k LocalService,Share_Process,Auto Start,NT AUTHORITY\LocalService,Enables support for NetBIOS over TCP/IP (NetBT) service and NetBIOS name resolution.
+2010-10-13 15:43:55Z,mnmdd,,,Kernel driver,System Start,,Transmits net send and Alerter service messages between clients and servers. This service is not related to Windows Messenger. If this service is stopped, Alerter messages will not be transmitted. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,Mouclass,Mouse Class Driver,system32\DRIVERS\mouclass.sys,Kernel driver,System Start,,Enables an authorized user to access this computer remotely by using NetMeeting over a corporate intranet. If this service is stopped, remote desktop sharing will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,MountMgr,,,Kernel driver,Boot Start,,Enables an authorized user to access this computer remotely by using NetMeeting over a corporate intranet. If this service is stopped, remote desktop sharing will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,MRxDAV,WebDav Client Redirector,system32\DRIVERS\mrxdav.sys,File system driver,Manual,,WebDav Client Redirector
+2010-10-13 15:43:55Z,MRxSmb,MRXSMB,system32\DRIVERS\mrxsmb.sys,File system driver,System Start,,MRXSMB
+2010-10-13 15:43:55Z,MSDTC,Distributed Transaction Coordinator,C:\WINDOWS\system32\msdtc.exe,Own_Process,Manual,NT AUTHORITY\NetworkService,Coordinates transactions that span multiple resource managers, such as databases, message queues, and file systems. If this service is stopped, these transactions will not occur. If this service is disabled, any services that explicitly depend on it will fail to start. 
+2010-10-13 15:43:55Z,Msfs,,,File system driver,System Start,,Coordinates transactions that span multiple resource managers, such as databases, message queues, and file systems. If this service is stopped, these transactions will not occur. If this service is disabled, any services that explicitly depend on it will fail to start. 
+2010-10-13 15:43:55Z,MSIServer,Windows Installer,C:\WINDOWS\system32\msiexec.exe /V,Share_Process,Manual,LocalSystem,Adds, modifies, and removes applications provided as a Windows Installer (*.msi) package. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,Mup,Mup,,File system driver,Boot Start,,Adds, modifies, and removes applications provided as a Windows Installer (*.msi) package. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,NDIS,NDIS System Driver,,Kernel driver,Boot Start,,Adds, modifies, and removes applications provided as a Windows Installer (*.msi) package. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,NdisTapi,Remote Access NDIS TAPI Driver,system32\DRIVERS\ndistapi.sys,Kernel driver,Manual,,Remote Access NDIS TAPI Driver
+2010-10-13 15:43:55Z,Ndisuio,NDIS Usermode I/O Protocol,system32\DRIVERS\ndisuio.sys,Kernel driver,Manual,,NDIS Usermode I/O Protocol
+2010-10-13 15:43:55Z,NdisWan,Remote Access NDIS WAN Driver,system32\DRIVERS\ndiswan.sys,Kernel driver,Manual,,Remote Access NDIS WAN Driver
+2010-10-13 15:43:55Z,NDProxy,NDIS Proxy,,Kernel driver,Manual,,Remote Access NDIS WAN Driver
+2010-10-13 15:43:55Z,NetBIOS,NetBIOS Interface,system32\DRIVERS\netbios.sys,File system driver,System Start,,NetBIOS Interface
+2010-10-13 15:43:55Z,NetBT,NetBios over Tcpip,system32\DRIVERS\netbt.sys,Kernel driver,System Start,,NetBios over Tcpip
+2010-10-13 15:43:55Z,Netman,Network Connections,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Manages objects in the Network and Dial-Up Connections folder, in which you can view both local area network and remote connections.
+2010-10-13 15:43:55Z,Nla,Network Location Awareness (NLA),%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Collects and stores network configuration and location information, and notifies applications when this information changes.
+2010-10-13 15:43:55Z,NPF,NetGroup Packet Filter Driver,system32\drivers\npf.sys,Kernel driver,Auto Start,,Collects and stores network configuration and location information, and notifies applications when this information changes.
+2010-10-13 15:43:55Z,Npfs,,,File system driver,System Start,,Collects and stores network configuration and location information, and notifies applications when this information changes.
+2010-10-13 15:43:55Z,Ntfs,,,File system driver,Disabled,,Collects and stores network configuration and location information, and notifies applications when this information changes.
+2010-10-13 15:43:55Z,Null,,,Kernel driver,System Start,,Provides security to remote procedure call (RPC) programs that use transports other than named pipes.
+2010-10-13 15:43:55Z,PartMgr,,,Kernel driver,Boot Start,,IPX Traffic Forwarder Driver
+2010-10-13 15:43:55Z,ParVdm,,,Kernel driver,Auto Start,,IPX Traffic Forwarder Driver
+2010-10-13 15:43:55Z,PCI,PCI Bus Driver,system32\DRIVERS\pci.sys,Kernel driver,Boot Start,,IPX Traffic Forwarder Driver
+2010-10-13 15:43:55Z,PCnet,AMD PCNET Compatable Adapter Driver,system32\DRIVERS\pcntpci5.sys,Kernel driver,Manual,,IPX Traffic Forwarder Driver
+2010-10-13 15:43:55Z,PolicyAgent,IPSEC Services,%SystemRoot%\system32\lsass.exe,Share_Process,Auto Start,LocalSystem,Manages IP security policy and starts the ISAKMP/Oakley (IKE) and the IP security driver.
+2010-10-13 15:43:55Z,PptpMiniport,WAN Miniport (PPTP),system32\DRIVERS\raspptp.sys,Kernel driver,Manual,,WAN Miniport (PPTP)
+2010-10-13 15:43:55Z,ProtectedStorage,Protected Storage,%SystemRoot%\system32\lsass.exe,Share_Process,Auto Start,LocalSystem,Provides protected storage for sensitive data, such as private keys, to prevent access by unauthorized services, processes, or users.
+2010-10-13 15:43:55Z,PSched,QoS Packet Scheduler,system32\DRIVERS\psched.sys,Kernel driver,Manual,,QoS Packet Scheduler
+2010-10-13 15:43:55Z,Ptilink,Direct Parallel Link Driver,system32\DRIVERS\ptilink.sys,Kernel driver,Manual,,Direct Parallel Link Driver
+2010-10-13 15:43:55Z,RasAcd,Remote Access Auto Connection Driver,system32\DRIVERS\rasacd.sys,Kernel driver,System Start,,Remote Access Auto Connection Driver
+2010-10-13 15:43:55Z,Rasl2tp,WAN Miniport (L2TP),system32\DRIVERS\rasl2tp.sys,Kernel driver,Manual,,WAN Miniport (L2TP)
+2010-10-13 15:43:55Z,RasMan,Remote Access Connection Manager,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Creates a network connection.
+2010-10-13 15:43:55Z,RasPppoe,Remote Access PPPOE Driver,system32\DRIVERS\raspppoe.sys,Kernel driver,Manual,,Remote Access PPPOE Driver
+2010-10-13 15:43:55Z,Raspti,Direct Parallel,system32\DRIVERS\raspti.sys,Kernel driver,Manual,,Direct Parallel
+2010-10-13 15:43:55Z,Rdbss,Rdbss,system32\DRIVERS\rdbss.sys,File system driver,System Start,,Rdbss
+2010-10-13 15:43:55Z,RDPCDD,,System32\DRIVERS\RDPCDD.sys,Kernel driver,System Start,,Rdbss
+2010-10-13 15:43:55Z,rdpdr,Terminal Server Device Redirector Driver,system32\DRIVERS\rdpdr.sys,Kernel driver,Manual,,Rdbss
+2010-10-13 15:43:55Z,RDPNP,,,,,,Rdbss
+2010-10-13 15:43:55Z,RemoteRegistry,Remote Registry,%SystemRoot%\system32\svchost.exe -k LocalService,Share_Process,Auto Start,NT AUTHORITY\LocalService,Enables remote users to modify registry settings on this computer. If this service is stopped, the registry can be modified only by users on this computer. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,RpcSs,Remote Procedure Call (RPC),%SystemRoot%\system32\svchost -k rpcss,Share_Process,Auto Start,NT AUTHORITY\NetworkService,Provides the endpoint mapper and other miscellaneous RPC services.
+2010-10-13 15:43:55Z,SamSs,Security Accounts Manager,%SystemRoot%\system32\lsass.exe,Share_Process,Auto Start,LocalSystem,Stores security information for local user accounts.
+2010-10-13 15:43:55Z,Schedule,Task Scheduler,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Enables a user to configure and schedule automated tasks on this computer. If this service is stopped, these tasks will not be run at their scheduled times. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,seclogon,Secondary Logon,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Enables starting processes under alternate credentials. If this service is stopped, this type of logon access will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,SENS,System Event Notification,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Tracks system events such as Windows logon, network, and power events.  Notifies COM+ Event System subscribers of these events.
+2010-10-13 15:43:55Z,SharedAccess,Windows Firewall/Internet Connection Sharing (ICS),%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Provides network address translation, addressing, name resolution and/or intrusion prevention services for a home or small office network.
+2010-10-13 15:43:55Z,ShellHWDetection,Shell Hardware Detection,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Provides notifications for AutoPlay hardware events.
+2010-10-13 15:43:55Z,Spooler,Print Spooler,%SystemRoot%\system32\spoolsv.exe,Own_Process,Auto Start,LocalSystem,Loads files to memory for later printing.
+2010-10-13 15:43:55Z,sr,System Restore Filter Driver,system32\DRIVERS\sr.sys,File system driver,Boot Start,,Loads files to memory for later printing.
+2010-10-13 15:43:55Z,srservice,System Restore Service,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Performs system restore functions. To stop service, turn off System Restore from the System Restore tab in My Computer->Properties
+2010-10-13 15:43:55Z,Srv,Srv,system32\DRIVERS\srv.sys,File system driver,Manual,,Srv
+2010-10-13 15:43:55Z,SSDPSRV,SSDP Discovery Service,%SystemRoot%\system32\svchost.exe -k LocalService,Share_Process,Manual,NT AUTHORITY\LocalService,Enables discovery of UPnP devices on your home network.
+2010-10-13 15:43:55Z,stisvc,Windows Image Acquisition (WIA),%SystemRoot%\system32\svchost.exe -k imgsvc,Share_Process,Manual,LocalSystem,Provides image acquisition services for scanners and cameras.
+2010-10-13 15:43:55Z,swenum,Software Bus Driver,system32\DRIVERS\swenum.sys,Kernel driver,Manual,,Provides image acquisition services for scanners and cameras.
+2010-10-13 15:43:55Z,TapiSrv,Telephony,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Provides Telephony API (TAPI) support for programs that control telephony devices and IP based voice connections on the local computer and, through the LAN, on servers that are also running the service.
+2010-10-13 15:43:55Z,Tcpip,TCP/IP Protocol Driver,system32\DRIVERS\tcpip.sys,Kernel driver,System Start,,TCP/IP Protocol Driver
+2010-10-13 15:43:55Z,TermDD,Terminal Device Driver,system32\DRIVERS\termdd.sys,Kernel driver,System Start,,TCP/IP Protocol Driver
+2010-10-13 15:43:55Z,TermService,Terminal Services,%SystemRoot%\System32\svchost -k DComLaunch,Share_Process,Manual,LocalSystem,Allows multiple users to be connected interactively to a machine as well as the display of desktops and applications to remote computers. The underpinning of Remote Desktop (including RD for Administrators), Fast User Switching, Remote Assistance, and Terminal Server.
+2010-10-13 15:43:55Z,Themes,Themes,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Provides user experience theme management.
+2010-10-13 15:43:55Z,TrkWks,Distributed Link Tracking Client,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Maintains links between NTFS files within a computer or across computers in a network domain.
+2010-10-13 15:43:55Z,Update,Microcode Update Driver,system32\DRIVERS\update.sys,Kernel driver,Manual,,Maintains links between NTFS files within a computer or across computers in a network domain.
+2010-10-13 15:43:55Z,usbuhci,Microsoft USB Universal Host Controller Miniport Driver,system32\DRIVERS\usbuhci.sys,Kernel driver,Manual,,Manages an uninterruptible power supply (UPS) connected to the computer.
+2010-10-13 15:43:55Z,VgaSave,,\SystemRoot\System32\drivers\vga.sys,Kernel driver,System Start,,Manages an uninterruptible power supply (UPS) connected to the computer.
+2010-10-13 15:43:55Z,VolSnap,,,Kernel driver,Boot Start,,Manages an uninterruptible power supply (UPS) connected to the computer.
+2010-10-13 15:43:55Z,W32Time,Windows Time,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Maintains date and time synchronization on all clients and servers in the network. If this service is stopped, date and time synchronization will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+
+2010-10-13 15:43:55Z,Wanarp,Remote Access IP ARP Driver,system32\DRIVERS\wanarp.sys,Kernel driver,Manual,,Remote Access IP ARP Driver
+2010-10-13 15:43:55Z,WebClient,WebClient,%SystemRoot%\system32\svchost.exe -k LocalService,Share_Process,Auto Start,NT AUTHORITY\LocalService,Enables Windows-based programs to create, access, and modify Internet-based files. If this service is stopped, these functions will not be available. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,winmgmt,Windows Management Instrumentation,%systemroot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Provides a common interface and object model to access management information about operating system, devices, applications and services. If this service is stopped, most Windows-based software will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:55Z,wscsvc,Security Center,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Monitors system security settings and configurations.
+2010-10-13 15:43:55Z,wuauserv,Automatic Updates,%systemroot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Enables the download and installation of Windows updates. If this service is disabled, this computer will not be able to use the Automatic Updates feature or the Windows Update Web site.
+2010-10-13 15:43:55Z,WZCSVC,Wireless Zero Configuration,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Provides automatic configuration for the 802.11 adapters
+2010-10-13 15:43:54Z,AFD,AFD,\SystemRoot\System32\drivers\afd.sys,Kernel driver,System Start,,AFD Networking Support Environment
+2010-10-13 15:43:54Z,ALG,Application Layer Gateway Service,%SystemRoot%\System32\alg.exe,Own_Process,Manual,NT AUTHORITY\LocalService,Provides support for 3rd party protocol plug-ins for Internet Connection Sharing and the Windows Firewall.
+2010-10-13 15:43:54Z,AudioSrv,Windows Audio,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Manages audio devices for Windows-based programs. If this service is stopped, audio devices and effects will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:54Z,Beep,,,Kernel driver,System Start,,Manages audio devices for Windows-based programs. If this service is stopped, audio devices and effects will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:54Z,Browser,Computer Browser,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:54Z,Cdfs,,,File system driver,Disabled,,Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:54Z,clr_optimization_v2.0.50727_32,.NET Runtime Optimization Service v2.0.50727_X86,C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe,Own_Process,Manual,LocalSystem,Microsoft .NET Framework NGEN
+2010-10-13 15:43:54Z,Compbatt,Microsoft Composite Battery Driver,system32\DRIVERS\compbatt.sys,Kernel driver,Boot Start,,Microsoft .NET Framework NGEN
+2010-10-13 15:43:54Z,COMSysApp,COM+ System Application,C:\WINDOWS\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},Own_Process,Manual,LocalSystem,Manages the configuration and tracking of Component Object Model (COM)+-based components. If the service is stopped, most COM+-based components will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:54Z,CryptSvc,Cryptographic Services,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Provides three management services: Catalog Database Service, which confirms the signatures of Windows files; Protected Root Service, which adds and removes Trusted Root Certification Authority certificates from this computer; and Key Service, which helps enroll this computer for certificates. If this service is stopped, these management services will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2010-10-13 15:43:54Z,DcomLaunch,DCOM Server Process Launcher,%SystemRoot%\system32\svchost -k DcomLaunch,Share_Process,Auto Start,LocalSystem,Provides launch functionality for DCOM services.
+2010-10-13 15:43:54Z,Dhcp,DHCP Client,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Auto Start,LocalSystem,Manages network configuration by registering and updating IP addresses and DNS names.
+2010-10-13 15:43:54Z,dmio,Logical Disk Manager Driver,System32\drivers\dmio.sys,Kernel driver,Boot Start,,Configures hard disk drives and volumes. The service only runs for configuration processes and then stops.
+2010-10-13 15:43:54Z,Ftdisk,Volume Manager Driver,system32\DRIVERS\ftdisk.sys,Kernel driver,Boot Start,,File System Filter Manager Driver
+2009-06-12 14:08:21Z,rpcapd,Remote Packet Capture Protocol v.0 (experimental),"%ProgramFiles%\WinPcap\rpcapd.exe" -d -f "%ProgramFiles%\WinPcap\rpcapd.ini",Own_Process,Manual,LocalSystem,Allows to capture traffic on this machine from a remote machine.
+2009-03-03 15:08:11Z,ASP.NET,,,,,,Provides software installation services such as Assign, Publish, and Remove.
+2009-03-03 15:08:10Z,ASP.NET_2.0.50727,,,,,,Provides software installation services such as Assign, Publish, and Remove.
+2009-03-03 15:08:10Z,aspnet_state,ASP.NET State Service,%SystemRoot%\Microsoft.NET\Framework\v2.0.50727\aspnet_state.exe,Own_Process,Manual,NT AUTHORITY\NetworkService,Provides support for out-of-process session states for ASP.NET. If this service is stopped, out-of-process requests will not be processed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-03-03 15:08:01Z,.NET CLR Networking,,,,,,
+2009-03-03 15:08:01Z,.NET Data Provider for Oracle,,,,,,
+2009-03-03 15:08:01Z,.NET Data Provider for SqlServer,,,,,,
+2009-03-03 15:08:00Z,.NET CLR Data,,,,,,
+2009-03-03 15:08:00Z,.NETFramework,,,,,,
+2009-02-16 03:52:04Z,MSKSSRV,Microsoft Streaming Service Proxy,system32\drivers\MSKSSRV.sys,Kernel driver,Manual,,Adds, modifies, and removes applications provided as a Windows Installer (*.msi) package. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:52:04Z,MSPCLOCK,Microsoft Streaming Clock Proxy,system32\drivers\MSPCLOCK.sys,Kernel driver,Manual,,Adds, modifies, and removes applications provided as a Windows Installer (*.msi) package. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:52:02Z,MSPQM,Microsoft Streaming Quality Manager Proxy,system32\drivers\MSPQM.sys,Kernel driver,Manual,,Adds, modifies, and removes applications provided as a Windows Installer (*.msi) package. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:51:54Z,stisvc\Parameters,,%SystemRoot%\system32\wiaservc.dll,,,,
+2009-02-16 03:50:16Z,ldap,,,,,,Creates and maintains client network connections to remote servers. If this service is stopped, these connections will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,Abiosdsk,,,Kernel driver,Disabled,,
+2009-02-16 03:50:09Z,abp480n5,,,Kernel driver,Disabled,,
+2009-02-16 03:50:09Z,ACPIEC,,,Kernel driver,Disabled,,
+2009-02-16 03:50:09Z,adpu160m,,,Kernel driver,Disabled,,
+2009-02-16 03:50:09Z,Aha154x,,,Kernel driver,Disabled,,AFD Networking Support Environment
+2009-02-16 03:50:09Z,aic78u2,,,Kernel driver,Disabled,,AFD Networking Support Environment
+2009-02-16 03:50:09Z,aic78xx,,,Kernel driver,Disabled,,AFD Networking Support Environment
+2009-02-16 03:50:09Z,AliIde,,,Kernel driver,Disabled,,Provides support for 3rd party protocol plug-ins for Internet Connection Sharing and the Windows Firewall.
+2009-02-16 03:50:09Z,amsint,,,Kernel driver,Disabled,,Provides support for 3rd party protocol plug-ins for Internet Connection Sharing and the Windows Firewall.
+2009-02-16 03:50:09Z,AppMgmt,Application Management,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Provides software installation services such as Assign, Publish, and Remove.
+2009-02-16 03:50:09Z,AppMgmt\Parameters,,%SystemRoot%\System32\appmgmts.dll,,,,
+2009-02-16 03:50:09Z,asc,,,Kernel driver,Disabled,,Provides software installation services such as Assign, Publish, and Remove.
+2009-02-16 03:50:09Z,asc3350p,,,Kernel driver,Disabled,,Provides software installation services such as Assign, Publish, and Remove.
+2009-02-16 03:50:09Z,asc3550,,,Kernel driver,Disabled,,Provides software installation services such as Assign, Publish, and Remove.
+2009-02-16 03:50:09Z,Atdisk,,,Kernel driver,Disabled,,RAS Asynchronous Media Driver
+2009-02-16 03:50:09Z,AudioSrv\Parameters,,%SystemRoot%\System32\audiosrv.dll,,,,
+2009-02-16 03:50:09Z,BattC,,,,,,Manages audio devices for Windows-based programs. If this service is stopped, audio devices and effects will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,cbidf2k,,,Kernel driver,Disabled,,Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,cd20xrnt,,,Kernel driver,Disabled,,Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,Changer,,,Kernel driver,System Start,,Maintains an updated list of computers on the network and supplies this list to computers designated as browsers. If this service is stopped, this list will not be updated or maintained. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,CiSvc,Indexing Service,%SystemRoot%\system32\cisvc.exe,Share_Process,Manual,LocalSystem,Indexes contents and properties of files on local and remote computers; provides rapid access to files through flexible querying language.
+2009-02-16 03:50:09Z,ClipSrv,ClipBook,%SystemRoot%\system32\clipsrv.exe,Own_Process,Disabled,LocalSystem,Enables ClipBook Viewer to store information and share it with remote computers. If the service is stopped, ClipBook Viewer will not be able to share information with remote computers. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,CmdIde,,,Kernel driver,Disabled,,Microsoft .NET Framework NGEN
+2009-02-16 03:50:09Z,Cpqarray,,,Kernel driver,Disabled,,Manages the configuration and tracking of Component Object Model (COM)+-based components. If the service is stopped, most COM+-based components will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,CryptSvc\Parameters,,%SystemRoot%\System32\cryptsvc.dll,,,,
+2009-02-16 03:50:09Z,dac2w2k,,,Kernel driver,Disabled,,Provides three management services: Catalog Database Service, which confirms the signatures of Windows files; Protected Root Service, which adds and removes Trusted Root Certification Authority certificates from this computer; and Key Service, which helps enroll this computer for certificates. If this service is stopped, these management services will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,dac960nt,,,Kernel driver,Disabled,,Provides three management services: Catalog Database Service, which confirms the signatures of Windows files; Protected Root Service, which adds and removes Trusted Root Certification Authority certificates from this computer; and Key Service, which helps enroll this computer for certificates. If this service is stopped, these management services will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,DcomLaunch\Parameters,,%SystemRoot%\system32\rpcss.dll,,,,
+2009-02-16 03:50:09Z,dmadmin,Logical Disk Manager Administrative Service,%SystemRoot%\System32\dmadmin.exe /com,Share_Process,Manual,LocalSystem,Configures hard disk drives and volumes. The service only runs for configuration processes and then stops.
+2009-02-16 03:50:09Z,dmserver\Parameters,,%SystemRoot%\System32\dmserver.dll,,,,
+2009-02-16 03:50:09Z,dpti2o,,,Kernel driver,Disabled,,Resolves and caches Domain Name System (DNS) names for this computer. If this service is stopped, this computer will not be able to resolve DNS names and locate Active Directory domain controllers. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,ERSvc\Parameters,,%SystemRoot%\System32\ersvc.dll,,,,
+2009-02-16 03:50:09Z,HidServ,Human Interface Device Access,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Disabled,LocalSystem,Enables generic input access to Human Interface Devices (HID), which activates and maintains the use of predefined hot buttons on keyboards, remote controls, and other multimedia devices. If this service is stopped, hot buttons controlled by this service will no longer function. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,HidServ\Parameters,,%SystemRoot%\System32\hidserv.dll,,,,
+2009-02-16 03:50:09Z,hpn,,,Kernel driver,Disabled,,Enables generic input access to Human Interface Devices (HID), which activates and maintains the use of predefined hot buttons on keyboards, remote controls, and other multimedia devices. If this service is stopped, hot buttons controlled by this service will no longer function. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,HTTPFilter,HTTP SSL,%SystemRoot%\System32\svchost.exe -k HTTPFilter,Share_Process,Manual,LocalSystem,This service implements the secure hypertext transfer protocol (HTTPS) for the HTTP service,  using the Secure Socket Layer (SSL).  If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,HTTPFilter\Parameters,,%SystemRoot%\System32\w3ssl.dll,,,,
+2009-02-16 03:50:09Z,i2omgmt,,,Kernel driver,System Start,,This service implements the secure hypertext transfer protocol (HTTPS) for the HTTP service,  using the Secure Socket Layer (SSL).  If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,i2omp,,,Kernel driver,Disabled,,This service implements the secure hypertext transfer protocol (HTTPS) for the HTTP service,  using the Secure Socket Layer (SSL).  If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,ini910u,,,Kernel driver,Disabled,,Manages CD recording using Image Mastering Applications Programming Interface (IMAPI). If this service is stopped, this computer will be unable to record CDs. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,Inport,,,,,,Manages CD recording using Image Mastering Applications Programming Interface (IMAPI). If this service is stopped, this computer will be unable to record CDs. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,IRENUM,IR Enumerator Service,system32\DRIVERS\irenum.sys,Kernel driver,Manual,,IPSEC driver
+2009-02-16 03:50:09Z,lbrtfdc,,,Kernel driver,System Start,,Creates and maintains client network connections to remote servers. If this service is stopped, these connections will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,Modem,,,Kernel driver,Manual,,Enables an authorized user to access this computer remotely by using NetMeeting over a corporate intranet. If this service is stopped, remote desktop sharing will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,mraid35x,,,Kernel driver,Disabled,,Enables an authorized user to access this computer remotely by using NetMeeting over a corporate intranet. If this service is stopped, remote desktop sharing will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,NetDDE,Network DDE,%SystemRoot%\system32\netdde.exe,Share_Process,Disabled,LocalSystem,Provides network transport and security for Dynamic Data Exchange (DDE) for programs running on the same computer or on different computers. If this service is stopped, DDE transport and security will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,NetDDEdsdm,Network DDE DSDM,%SystemRoot%\system32\netdde.exe,Share_Process,Disabled,LocalSystem,Manages Dynamic Data Exchange (DDE) network shares. If this service is stopped, DDE network shares will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start. 
+2009-02-16 03:50:09Z,Netman\Parameters,,%SystemRoot%\System32\netman.dll,,,,
+2009-02-16 03:50:09Z,PCIDump,,,Kernel driver,System Start,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,PCIIde,,,Kernel driver,Disabled,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,Pcmcia,,,Kernel driver,Disabled,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,perc2,,,Kernel driver,Disabled,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,perc2hib,,,Kernel driver,Disabled,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,PerfDisk,,,,,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,PerfNet,,,,,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,PerfOS,,,,,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,PerfProc,,,,,,IPX Traffic Forwarder Driver
+2009-02-16 03:50:09Z,ql1080,,,Kernel driver,Disabled,,Direct Parallel Link Driver
+2009-02-16 03:50:09Z,Ql10wnt,,,Kernel driver,Disabled,,Direct Parallel Link Driver
+2009-02-16 03:50:09Z,ql12160,,,Kernel driver,Disabled,,Direct Parallel Link Driver
+2009-02-16 03:50:09Z,ql1240,,,Kernel driver,Disabled,,Direct Parallel Link Driver
+2009-02-16 03:50:09Z,ql1280,,,Kernel driver,Disabled,,Direct Parallel Link Driver
+2009-02-16 03:50:09Z,RemoteRegistry\Parameters,,%SystemRoot%\system32\regsvc.dll,,,,
+2009-02-16 03:50:09Z,RpcSs\Parameters,,%SystemRoot%\system32\rpcss.dll,,,,
+2009-02-16 03:50:09Z,SCardSvr,Smart Card,%SystemRoot%\System32\SCardSvr.exe,Share_Process,Manual,NT AUTHORITY\LocalService,Manages access to smart cards read by this computer. If this service is stopped, this computer will be unable to read smart cards. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,seclogon\Parameters,,%SystemRoot%\System32\seclogon.dll,,,,
+2009-02-16 03:50:09Z,SENS\Parameters,,%SystemRoot%\system32\sens.dll,,,,
+2009-02-16 03:50:09Z,Simbad,,,Kernel driver,Disabled,,Provides notifications for AutoPlay hardware events.
+2009-02-16 03:50:09Z,Sparrow,,,Kernel driver,Disabled,,Provides notifications for AutoPlay hardware events.
+2009-02-16 03:50:09Z,symc810,,,Kernel driver,Disabled,,Manages software-based volume shadow copies taken by the Volume Shadow Copy service. If this service is stopped, software-based volume shadow copies cannot be managed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,symc8xx,,,Kernel driver,Disabled,,Manages software-based volume shadow copies taken by the Volume Shadow Copy service. If this service is stopped, software-based volume shadow copies cannot be managed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,sym_hi,,,Kernel driver,Disabled,,Manages software-based volume shadow copies taken by the Volume Shadow Copy service. If this service is stopped, software-based volume shadow copies cannot be managed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,sym_u3,,,Kernel driver,Disabled,,Manages software-based volume shadow copies taken by the Volume Shadow Copy service. If this service is stopped, software-based volume shadow copies cannot be managed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,SysmonLog,Performance Logs and Alerts,%SystemRoot%\system32\smlogsvc.exe,Own_Process,Manual,NT Authority\NetworkService,Collects performance data from local or remote computers based on preconfigured schedule parameters, then writes the data to a log or triggers an alert. If this service is stopped, performance information will not be collected. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,TapiSrv\Parameters,,%SystemRoot%\System32\tapisrv.dll,,,,
+2009-02-16 03:50:09Z,TosIde,,,Kernel driver,Disabled,,Enables a remote user to log on to this computer and run programs, and supports various TCP/IP Telnet clients, including UNIX-based and Windows-based computers. If this service is stopped, remote user access to programs might be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,TrkWks\Parameters,,%SystemRoot%\system32\trkwks.dll,,,,
+2009-02-16 03:50:09Z,TSDDD,,,,,,Maintains links between NTFS files within a computer or across computers in a network domain.
+2009-02-16 03:50:09Z,Udfs,,,File system driver,Disabled,,Maintains links between NTFS files within a computer or across computers in a network domain.
+2009-02-16 03:50:09Z,ultra,,,Kernel driver,Disabled,,Maintains links between NTFS files within a computer or across computers in a network domain.
+2009-02-16 03:50:09Z,UPS,Uninterruptible Power Supply,%SystemRoot%\System32\ups.exe,Own_Process,Manual,NT AUTHORITY\LocalService,Manages an uninterruptible power supply (UPS) connected to the computer.
+2009-02-16 03:50:09Z,ViaIde,,,Kernel driver,Disabled,,Manages an uninterruptible power supply (UPS) connected to the computer.
+2009-02-16 03:50:09Z,WinSock2,,,,,,Provides a common interface and object model to access management information about operating system, devices, applications and services. If this service is stopped, most Windows-based software will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,WinTrust,,,,,,Provides a common interface and object model to access management information about operating system, devices, applications and services. If this service is stopped, most Windows-based software will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-16 03:50:09Z,Wmi,Windows Management Instrumentation Driver Extensions,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Provides systems management information to and from drivers.
+2009-02-16 03:50:09Z,Wmi\Parameters,,%SystemRoot%\System32\advapi32.dll,,,,
+2009-02-16 03:50:09Z,WS2IFSL,,,,System Start,,Provides performance library information from WMI HiPerf providers.
+2009-02-16 03:50:09Z,wscsvc\Parameters,,%SYSTEMROOT%\system32\wscsvc.dll,,,,
+2009-02-16 03:50:09Z,xmlprov,Network Provisioning Service,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Manages XML configuration files on a domain basis for automatic network provisioning.
+2009-02-16 03:50:09Z,xmlprov\Parameters,,%SystemRoot%\System32\xmlprov.dll,,,,
+2009-02-15 17:02:18Z,TermService\Parameters,,%SystemRoot%\System32\termsrv.dll,,,,
+2009-02-15 17:01:16Z,RasMan\Parameters,,%SystemRoot%\System32\rasmans.dll,,,,
+2009-02-15 16:57:04Z,PlugPlay,Plug and Play,%SystemRoot%\system32\services.exe,Share_Process,Auto Start,LocalSystem,Enables a computer to recognize and adapt to hardware changes with little or no user input. Stopping or disabling this service will result in system instability.
+2009-02-15 16:56:52Z,WmdmPmSN,Portable Media Serial Number Service,%SystemRoot%\System32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Retrieves the serial number of any portable media player connected to this computer. If this service is stopped, protected content might not be down loaded to the device.
+2009-02-15 16:56:52Z,WmdmPmSN\Parameters,,C:\WINDOWS\system32\mspmsnsv.dll,,,,
+2009-02-15 16:56:42Z,NtmsSvc,Removable Storage,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Provides security to remote procedure call (RPC) programs that use transports other than named pipes.
+2009-02-15 16:56:42Z,NtmsSvc\Parameters,,%SystemRoot%\system32\ntmssvc.dll,,,,
+2009-02-15 16:56:42Z,VSS,Volume Shadow Copy,%SystemRoot%\System32\vssvc.exe,Own_Process,Manual,LocalSystem,Manages and implements Volume Shadow Copies used for backup and other purposes. If this service is stopped, shadow copies will be unavailable for backup and the backup may fail. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:56:41Z,SwPrv,MS Software Shadow Copy Provider,C:\WINDOWS\system32\dllhost.exe /Processid:{E3E320C2-AD4A-43F4-80B3-D7DD33AED6E5},Own_Process,Manual,LocalSystem,Manages software-based volume shadow copies taken by the Volume Shadow Copy service. If this service is stopped, software-based volume shadow copies cannot be managed. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:56:30Z,RemoteAccess,Routing and Remote Access,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Disabled,LocalSystem,Offers routing services to businesses in local area and wide area network environments.
+2009-02-15 16:56:26Z,TlntSvr,Telnet,C:\WINDOWS\system32\tlntsvr.exe,Own_Process,Disabled,LocalSystem,Enables a remote user to log on to this computer and run programs, and supports various TCP/IP Telnet clients, including UNIX-based and Windows-based computers. If this service is stopped, remote user access to programs might be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:56:14Z,helpsvc\Parameters,,%WINDIR%\PCHealth\HelpCtr\Binaries\pchsvc.dll,,,,
+2009-02-15 16:55:58Z,ImapiService,IMAPI CD-Burning COM Service,C:\WINDOWS\system32\imapi.exe,Own_Process,Manual,LocalSystem,Manages CD recording using Image Mastering Applications Programming Interface (IMAPI). If this service is stopped, this computer will be unable to record CDs. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:55:57Z,FastUserSwitchingCompatibility\Parameters,,%SystemRoot%\System32\shsvcs.dll,,,,
+2009-02-15 16:55:57Z,ShellHWDetection\Parameters,,%SystemRoot%\System32\shsvcs.dll,,,,
+2009-02-15 16:55:57Z,Themes\Parameters,,%SystemRoot%\System32\shsvcs.dll,,,,
+2009-02-15 16:55:49Z,W32Time\Parameters,,C:\WINDOWS\system32\w32time.dll,,,,
+2009-02-15 16:55:48Z,SharedAccess\Parameters,,%SystemRoot%\System32\ipnathlp.dll,,,,
+2009-02-15 16:55:47Z,wuauserv\Parameters,,C:\WINDOWS\system32\wuauserv.dll,,,,
+2009-02-15 16:55:46Z,BITS,Background Intelligent Transfer Service,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Transfers data between clients and servers in the background. If BITS is disabled, features such as Windows Update will not work correctly.
+2009-02-15 16:55:46Z,BITS\Parameters,,C:\WINDOWS\system32\qmgr.dll,,,,
+2009-02-15 16:55:46Z,upnphost,Universal Plug and Play Device Host,%SystemRoot%\system32\svchost.exe -k LocalService,Share_Process,Manual,NT AUTHORITY\LocalService,Provides support to host Universal Plug and Play devices.
+2009-02-15 16:55:45Z,srservice\Parameters,,C:\WINDOWS\system32\srsvc.dll,,,,
+2009-02-15 16:55:45Z,SSDPSRV\Parameters,,%SystemRoot%\System32\ssdpsrv.dll,,,,
+2009-02-15 16:55:45Z,upnphost\Parameters,,%SystemRoot%\System32\upnphost.dll,,,,
+2009-02-15 16:55:44Z,mnmsrvc,NetMeeting Remote Desktop Sharing,C:\WINDOWS\system32\mnmsrvc.exe,Own_Process,Manual,LocalSystem,Enables an authorized user to access this computer remotely by using NetMeeting over a corporate intranet. If this service is stopped, remote desktop sharing will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:55:44Z,Schedule\Parameters,,%SystemRoot%\system32\schedsvc.dll,,,,
+2009-02-15 16:55:42Z,inetaccs,,,,,,Manages CD recording using Image Mastering Applications Programming Interface (IMAPI). If this service is stopped, this computer will be unable to record CDs. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:55:42Z,Secdrv,Secdrv,system32\DRIVERS\secdrv.sys,Kernel driver,Manual,,SafeDisc driver
+2009-02-15 16:55:42Z,W3SVC,,,,,,Maintains date and time synchronization on all clients and servers in the network. If this service is stopped, date and time synchronization will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+
+2009-02-15 16:55:13Z,RDSessMgr,Remote Desktop Help Session Manager,C:\WINDOWS\system32\sessmgr.exe,Own_Process,Manual,LocalSystem,Manages and controls Remote Assistance. If this service is stopped, Remote Assistance will be unavailable. Before stopping this service, see the Dependencies tab of the Properties dialog box.
+2009-02-15 16:54:59Z,WmiApSrv,WMI Performance Adapter,C:\WINDOWS\system32\wbem\wmiapsrv.exe,Own_Process,Manual,LocalSystem,Provides performance library information from WMI HiPerf providers.
+2009-02-15 16:54:58Z,WmiApRpl,,,,,,Provides systems management information to and from drivers.
+2009-02-15 16:54:56Z,winmgmt\Parameters,,%SystemRoot%\system32\wbem\WMIsvc.dll,,,,
+2009-02-15 16:54:51Z,EventSystem\Parameters,,C:\WINDOWS\system32\es.dll,,,,
+2009-02-15 16:54:43Z,LicenseService,,,,,,Creates and maintains client network connections to remote servers. If this service is stopped, these connections will be unavailable. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:54:43Z,PDCOMP,,,Kernel driver,Manual,,IPX Traffic Forwarder Driver
+2009-02-15 16:54:43Z,PDFRAME,,,Kernel driver,Manual,,IPX Traffic Forwarder Driver
+2009-02-15 16:54:43Z,PDRELI,,,Kernel driver,Manual,,IPX Traffic Forwarder Driver
+2009-02-15 16:54:43Z,PDRFRAME,,,Kernel driver,Manual,,IPX Traffic Forwarder Driver
+2009-02-15 16:54:43Z,RDPDD,,,,,,Rdbss
+2009-02-15 16:54:43Z,RDPWD,,,Kernel driver,Manual,,Rdbss
+2009-02-15 16:54:43Z,TDPIPE,,,Kernel driver,Manual,,TCP/IP Protocol Driver
+2009-02-15 16:54:43Z,TDTCP,,,Kernel driver,Manual,,TCP/IP Protocol Driver
+2009-02-15 16:54:43Z,WDICA,,,Kernel driver,Manual,,Remote Access IP ARP Driver
+2009-02-15 16:54:22Z,ContentFilter,,,,,,Manages the configuration and tracking of Component Object Model (COM)+-based components. If the service is stopped, most COM+-based components will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:54:22Z,ContentIndex,,,,,,Manages the configuration and tracking of Component Object Model (COM)+-based components. If the service is stopped, most COM+-based components will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:54:22Z,ISAPISearch,,,,,,IPSEC driver
+2009-02-15 16:54:13Z,WZCSVC\Parameters,,%SystemRoot%\System32\wzcsvc.dll,,,,
+2009-02-15 16:54:12Z,Ip6Fw,IPv6 Windows Firewall Driver,system32\DRIVERS\Ip6Fw.sys,Kernel driver,Manual,,Provides intrusion prevention service for a home or small office network.
+2009-02-15 16:54:12Z,IpFilterDriver,IP Traffic Filter Driver,system32\DRIVERS\ipfltdrv.sys,Kernel driver,Manual,,IP Traffic Filter Driver
+2009-02-15 16:54:12Z,IpInIp,IP in IP Tunnel Driver,system32\DRIVERS\ipinip.sys,Kernel driver,Manual,,IP in IP Tunnel Driver
+2009-02-15 16:54:12Z,NwlnkFlt,IPX Traffic Filter Driver,system32\DRIVERS\nwlnkflt.sys,Kernel driver,Manual,,IPX Traffic Filter Driver
+2009-02-15 16:54:12Z,NwlnkFwd,IPX Traffic Forwarder Driver,system32\DRIVERS\nwlnkfwd.sys,Kernel driver,Manual,,IPX Traffic Forwarder Driver
+2009-02-15 16:54:12Z,RemoteAccess\Parameters,,%SystemRoot%\System32\mprdim.dll,,,,
+2009-02-15 16:54:09Z,RasAuto,Remote Access Auto Connection Manager,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Manual,LocalSystem,Creates a connection to a remote network whenever a program references a remote DNS or NetBIOS name or address.
+2009-02-15 16:54:09Z,RasAuto\Parameters,,%SystemRoot%\System32\rasauto.dll,,,,
+2009-02-15 16:54:07Z,lanmanworkstation\Parameters,,%SystemRoot%\System32\wkssvc.dll,,,,
+2009-02-15 16:54:06Z,Alerter,Alerter,%SystemRoot%\system32\svchost.exe -k LocalService,Share_Process,Disabled,NT AUTHORITY\LocalService,Notifies selected users and computers of administrative alerts. If the service is stopped, programs that use administrative alerts will not receive them. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:54:06Z,Alerter\Parameters,,%SystemRoot%\system32\alrsvc.dll,,,,
+2009-02-15 16:54:06Z,Browser\Parameters,,%SystemRoot%\System32\browser.dll,,,,
+2009-02-15 16:54:06Z,Messenger,Messenger,%SystemRoot%\system32\svchost.exe -k netsvcs,Share_Process,Disabled,LocalSystem,Transmits net send and Alerter service messages between clients and servers. This service is not related to Windows Messenger. If this service is stopped, Alerter messages will not be transmitted. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:54:06Z,Messenger\Parameters,,%SystemRoot%\System32\msgsvc.dll,,,,
+2009-02-15 16:54:06Z,Netlogon,Net Logon,%SystemRoot%\system32\lsass.exe,Share_Process,Manual,LocalSystem,Supports pass-through authentication of account logon events for computers in a domain.
+2009-02-15 16:54:06Z,NtLmSsp,NT LM Security Support Provider,%SystemRoot%\system32\lsass.exe,Share_Process,Manual,LocalSystem,Provides security to remote procedure call (RPC) programs that use transports other than named pipes.
+2009-02-15 16:54:06Z,RpcLocator,Remote Procedure Call (RPC) Locator,%SystemRoot%\system32\locator.exe,Own_Process,Manual,NT AUTHORITY\NetworkService,Manages the RPC name service database.
+2009-02-15 16:54:05Z,WebClient\Parameters,,%SystemRoot%\System32\webclnt.dll,,,,
+2009-02-15 16:54:03Z,LmHosts\Parameters,,%SystemRoot%\System32\lmhsvc.dll,,,,
+2009-02-15 16:54:03Z,RSVP,QoS RSVP,%SystemRoot%\system32\rsvp.exe,Own_Process,Manual,LocalSystem,Provides network signaling and local traffic control setup functionality for QoS-aware programs and control applets.
+2009-02-15 16:54:03Z,{08D29489-BCA9-4BE5-92EA-C5DCAFE9F7F4},,,,,,Manages XML configuration files on a domain basis for automatic network provisioning.
+2009-02-15 16:54:02Z,Atmarpc,ATM ARP Client Protocol,system32\DRIVERS\atmarpc.sys,Kernel driver,Manual,,ATM ARP Client Protocol
+2009-02-15 16:54:02Z,Dnscache\Parameters,,%SystemRoot%\System32\dnsrslvr.dll,,,,
+2009-02-15 16:54:02Z,Nla\Parameters,,%SystemRoot%\System32\mswsock.dll,,,,
+2009-02-15 16:54:02Z,Winsock,,,Adapter,Manual,,Provides a common interface and object model to access management information about operating system, devices, applications and services. If this service is stopped, most Windows-based software will not function properly. If this service is disabled, any services that explicitly depend on it will fail to start.
+2009-02-15 16:54:00Z,AsyncMac,RAS Asynchronous Media Driver,system32\DRIVERS\asyncmac.sys,Kernel driver,Manual,,RAS Asynchronous Media Driver
+2009-02-15 16:54:00Z,Eventlog,Event Log,%SystemRoot%\system32\services.exe,Share_Process,Auto Start,LocalSystem,Enables event log messages issued by Windows-based programs and components to be viewed in Event Viewer. This service cannot be stopped.
+----------------------------------------
+svcdll v.20200525
+(System) Lists Services keys with ServiceDll values
+
+2010-10-13 15:43:55Z
+  dmserver -> %SystemRoot%\System32\dmserver.dll
+  Dnscache -> %SystemRoot%\System32\dnsrslvr.dll
+  ERSvc -> %SystemRoot%\System32\ersvc.dll
+  EventSystem -> C:\WINDOWS\system32\es.dll
+  FastUserSwitchingCompatibility -> %SystemRoot%\System32\shsvcs.dll
+  helpsvc -> %WINDIR%\PCHealth\HelpCtr\Binaries\pchsvc.dll
+  lanmanserver -> %SystemRoot%\System32\srvsvc.dll
+  lanmanworkstation -> %SystemRoot%\System32\wkssvc.dll
+  LmHosts -> %SystemRoot%\System32\lmhsvc.dll
+  Netman -> %SystemRoot%\System32\netman.dll
+  Nla -> %SystemRoot%\System32\mswsock.dll
+  RasMan -> %SystemRoot%\System32\rasmans.dll
+  RemoteRegistry -> %SystemRoot%\system32\regsvc.dll
+  RpcSs -> %SystemRoot%\system32\rpcss.dll
+  Schedule -> %SystemRoot%\system32\schedsvc.dll
+  seclogon -> %SystemRoot%\System32\seclogon.dll
+  SENS -> %SystemRoot%\system32\sens.dll
+  SharedAccess -> %SystemRoot%\System32\ipnathlp.dll
+  ShellHWDetection -> %SystemRoot%\System32\shsvcs.dll
+  srservice -> C:\WINDOWS\system32\srsvc.dll
+  SSDPSRV -> %SystemRoot%\System32\ssdpsrv.dll
+  stisvc -> %SystemRoot%\system32\wiaservc.dll
+  TapiSrv -> %SystemRoot%\System32\tapisrv.dll
+  TermService -> %SystemRoot%\System32\termsrv.dll
+  Themes -> %SystemRoot%\System32\shsvcs.dll
+  TrkWks -> %SystemRoot%\system32\trkwks.dll
+  W32Time -> C:\WINDOWS\system32\w32time.dll
+  WebClient -> %SystemRoot%\System32\webclnt.dll
+  winmgmt -> %SystemRoot%\system32\wbem\WMIsvc.dll
+  wscsvc -> %SYSTEMROOT%\system32\wscsvc.dll
+  wuauserv -> C:\WINDOWS\system32\wuauserv.dll
+  WZCSVC -> %SystemRoot%\System32\wzcsvc.dll
+
+2010-10-13 15:43:54Z
+  AudioSrv -> %SystemRoot%\System32\audiosrv.dll
+  Browser -> %SystemRoot%\System32\browser.dll
+  CryptSvc -> %SystemRoot%\System32\cryptsvc.dll
+  DcomLaunch -> %SystemRoot%\system32\rpcss.dll
+  Dhcp -> %SystemRoot%\System32\dhcpcsvc.dll
+
+2009-02-16 03:50:09Z
+  AppMgmt -> %SystemRoot%\System32\appmgmts.dll
+  HidServ -> %SystemRoot%\System32\hidserv.dll
+  HTTPFilter -> %SystemRoot%\System32\w3ssl.dll
+  Wmi -> %SystemRoot%\System32\advapi32.dll
+  xmlprov -> %SystemRoot%\System32\xmlprov.dll
+
+2009-02-15 16:56:52Z
+  WmdmPmSN -> C:\WINDOWS\system32\mspmsnsv.dll
+
+2009-02-15 16:56:42Z
+  NtmsSvc -> %SystemRoot%\system32\ntmssvc.dll
+
+2009-02-15 16:56:30Z
+  RemoteAccess -> %SystemRoot%\System32\mprdim.dll
+
+2009-02-15 16:55:46Z
+  BITS -> C:\WINDOWS\system32\qmgr.dll
+  upnphost -> %SystemRoot%\System32\upnphost.dll
+
+2009-02-15 16:54:09Z
+  RasAuto -> %SystemRoot%\System32\rasauto.dll
+
+2009-02-15 16:54:06Z
+  Alerter -> %SystemRoot%\system32\alrsvc.dll
+  Messenger -> %SystemRoot%\System32\msgsvc.dll
+
+----------------------------------------
+termcert v.20200526
+(System) Gets Terminal Server certificate
+
+ControlSet001\Services\TermService\Parameters
+LastWrite Time 2009-02-15 17:02:18Z
+
+01 00 00 00 01 00 00 00 01 00 00 00 06 00 5c 00    ...............     
+52 53 41 31 48 00 00 00 00 02 00 00 3f 00 00 00    RSA1H........       
+01 00 01 00 43 8e f9 cd 4f 3d 1f 86 c1 61 f5 c7    ....C...O....a..    
+85 62 1b 3e 53 6d d9 e3 cf 48 6b f0 29 52 50 cf    .b..Sm...Hk..RP.    
+a3 7d b7 c0 3a 71 88 d9 8d 0b b9 6a 6c 1b 7a 89    .....q.....jl.z.    
+92 fd 31 be bd 4a 1a cf 2f 09 e0 3b 23 8c 30 70    ..1..J........0p    
+b6 33 66 ac 00 00 00 00 00 00 00 00 08 00 48 00    .3f...........H     
+41 4b ca ee 7f ac 4a 89 45 1c 05 5d 3b 41 92 ff    AK....J.E....A..    
+bb 8c b0 ab fa 31 e8 b6 e0 20 b8 b2 b1 a3 b6 52    .....1.........R    
+c4 a2 81 70 d0 5b 9e 92 2d f3 c7 56 a8 68 b6 af    ...p.......V.h..    
+7f 28 e3 2e ec 0f e5 01 5c 2f a6 a9 fa ad 94 40    ................    
+00 00 00 00 00 00 00 00                                                
+----------------------------------------
+ControlSet001\Control\Terminal Server
+LastWrite Time 2009-02-15 17:02:17Z
+
+  ProductVersion = 5.1
+
+  fDenyTSConnections = 1
+  1 = connections denied
+
+
+  TSAdvertise = 0
+  0 = disabled, 1 = enabled (advertise Terminal Services)
+  Ref: http://support.microsoft.com/kb/281307
+
+  TSEnabled = 1
+  0 = disabled, 1 = enabled (Terminal Services enabled)
+  Ref: http://support.microsoft.com/kb/222992
+
+  TSUserEnabled = 0
+  1 = All users logging in are automatically part of the
+  built-in Terminal Server User group. 0 = No one is a
+  member of the built-in group.
+  Ref: http://support.microsoft.com/kb/238965
+
+  fAllowToGetHelp = 1
+  1 = Users can request assistance from friend or a support professional.
+  Ref: http://www.pctools.com/guides/registry/detail/1213/
+AutoStart Locations
+Wds\rdpwd key
+  StartupPrograms: rdpclip
+Analysis Tip: This value usually contains 'rdpclip'; any additional entries 
+should be investigated.
+
+WinStations\RDP-Tcp key
+  InitialProgram: {blank}
+Analysis Tip: Maybe be empty; appears as '{blank}'
+SysProcs key values
+LastWrite: 2009-02-15 16:54:43Z
+  csrss.exe - 0
+  smss.exe - 0
+  screg.exe - 0
+  lsass.exe - 0
+  spoolss.exe - 0
+  EventLog.exe - 0
+  netdde.exe - 0
+  clipsrv.exe - 0
+  lmsvcs.exe - 0
+  MsgSvc.exe - 0
+  winlogon.exe - 0
+  NETSTRS.EXE - 0
+  nddeagnt.exe - 0
+  os2srv.exe - 0
+  wfshell.exe - 0
+  win.com - 0
+  rdpclip.exe - 0
+  conime.exe - 0
+  proquota.exe - 0
+  imepadsv.exe - 0
+  ctfmon.exe - 0
+
+UserAuthentication value not found.
+
+WinStations\RDP-Tcp key
+  PortNumber: 3389
+Analysis Tip: By default, the port number is 3389, but can be changed.
+Policies\Microsoft\Windows NT\Terminal Services not found.
+----------------------------------------
+timezone v.20200518
+(System) Get TimeZoneInformation key contents
+
+TimeZoneInformation key
+ControlSet001\Control\TimeZoneInformation
+LastWrite Time 2010-05-04 12:32:28Z
+  DaylightName   -> AUS Eastern Standard Time
+  StandardName   -> AUS Eastern Standard Time
+  Bias           -> -600 (-10 hours)
+  ActiveTimeBias -> -600 (-10 hours)
+----------------------------------------
+usb v.20200515
+(System) Get USB key info
+
+USBStor
+ControlSet001\Enum\USB
+
+ROOT_HUB [2009-02-16 03:48:20Z]
+  S/N: 4&3788cc09&0 [2010-10-13 15:44:01Z]
+    ParentIdPrefix: 5&1f8fd7d0&0
+
+ROOT_HUB20 [2009-02-16 03:48:20Z]
+  S/N: 5&5a96d93&0 [2010-10-13 15:44:01Z]
+
+Vid_0e0f&Pid_0002 [2009-02-16 03:48:20Z]
+  S/N: 5&1f8fd7d0&0&2 [2010-10-13 15:44:03Z]
+
+Vid_0e0f&Pid_0003 [2009-02-16 03:48:20Z]
+  S/N: 5&1f8fd7d0&0&1 [2010-10-13 15:44:03Z]
+    ParentIdPrefix: 6&29cbcb69&0
+
+Vid_0e0f&Pid_0003&MI_00 [2009-02-16 03:48:20Z]
+  S/N: 6&29cbcb69&0&0000 [2010-10-13 15:44:03Z]
+    ParentIdPrefix: 7&1b1a3d13&0
+
+Vid_0e0f&Pid_0003&MI_01 [2009-02-16 03:48:20Z]
+  S/N: 6&29cbcb69&0&0001 [2010-10-13 15:44:03Z]
+    ParentIdPrefix: 7&356b0ce&0
+
+----------------------------------------
+usbdevices v.20200525
+(System) Parses Enum\USB key for USB & WPD devices
+
+----------------------------------------
+usbstor v.20200515
+(System) Get USBStor key info
+
+ControlSet001\Enum\USBStor not found.
+----------------------------------------
+wpdbusenum v.20200515
+(System) Get WpdBusEnum subkey info
+
+ControlSet001\Enum\SWD\WPDBUSENUM not found.
+ControlSet001\Control\DeviceClasses\{10497b1b-ba51-44e5-8318-a65c837b6661} not found.
+----------------------------------------
