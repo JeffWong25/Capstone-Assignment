@@ -1,7 +1,10 @@
 # ICT30010 e-Forensic Fundamentals - Final Capstone Assignment
 Investigator: Wong Jin Tao
+
 Subject: Imanuel Leet-Hacker (aka Ima Hacker)
+
 Date of Investigation: 28 June 2025
+
 University: Swinburne University of Technology
 
 # 📝 Project Overview
